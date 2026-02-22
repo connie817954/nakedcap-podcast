@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Naked Capitalism Daily Links</title>
+    <link>https://www.nakedcapitalism.com/</link>
+    <description>Daily Links from nakedcapitalism.com, converted to audio.</description>
+    <language>en-us</language>
+    <itunes:author>Naked Capitalism (TTS)</itunes:author>
+    <itunes:owner>
+      <itunes:name>Naked Capitalism (TTS)</itunes:name>
+      <itunes:email>you@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+    <image>
+      <url>https://connie817954.github.io/nakedcap-podcast/cover.jpg</url>
+      <title>Naked Capitalism Daily Links</title>
+      <link>https://www.nakedcapitalism.com/</link>
+    </image>
+    <item>
+      <title>Links 2/21/2026</title>
+      <description>Daily Links from Naked Capitalism. 11 articles: Dog trained to illegally dump rubbish, Italian authorities say; The Cult Deprogrammer Who Needed Deprogramming; Biology’s New Era: The historic shift from studying life to engineering it; Plastic surgeon pumps more drama into ‘PenisGate’ at Olympics with injection claim; The latest skincare fad is rubbing salmon sperm on your face…</description>
+      <enclosure url="https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-02-22.mp3" length="32539851" type="audio/mpeg"/>
+      <guid isPermaLink="false">nc-links-2026-02-22</guid>
+      <pubDate>Sun, 22 Feb 2026 03:50:43 +0000</pubDate>
+      <itunes:duration>01:07:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -7,6 +7,7 @@ Dependencies:
     pip install requests beautifulsoup4 trafilatura edge-tts pydub
     brew install ffmpeg   # (macOS) or: sudo apt install ffmpeg
 """
+from __future__ import annotations
 
 import asyncio
 import hashlib
@@ -20,6 +21,7 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
 
+import cloudscraper
 import edge_tts
 import requests
 import trafilatura
@@ -49,6 +51,9 @@ STATE_FILE = BASE_DIR / "state.json"
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger(__name__)
 
+# Shared session — cloudscraper handles Cloudflare challenges
+SESSION = cloudscraper.create_scraper()
+
 
 # ──────────────────────────────────────────────
 # STEP 1: SCRAPE NAKED CAPITALISM LINKS POST
@@ -57,8 +62,7 @@ log = logging.getLogger(__name__)
 def fetch_links_post() -> dict | None:
     """Find today's Links post and return {title, url, article_links}."""
     log.info("Fetching nakedcapitalism.com homepage…")
-    resp = requests.get("https://www.nakedcapitalism.com/", timeout=15,
-                        headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastBot/1.0)"})
+    resp = SESSION.get("https://www.nakedcapitalism.com/", timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -76,8 +80,7 @@ def fetch_links_post() -> dict | None:
 
 def _parse_links_post(url: str, title: str) -> dict:
     """Fetch the Links post and extract all outbound article links."""
-    resp = requests.get(url, timeout=15,
-                        headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastBot/1.0)"})
+    resp = SESSION.get(url, timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -122,8 +125,7 @@ def _parse_links_post(url: str, title: str) -> dict:
 def fetch_article_text(url: str) -> str | None:
     """Use trafilatura to extract clean article text."""
     try:
-        resp = requests.get(url, timeout=10,
-                            headers={"User-Agent": "Mozilla/5.0 (compatible; PodcastBot/1.0)"})
+        resp = SESSION.get(url, timeout=10)
         text = trafilatura.extract(resp.text, include_comments=False,
                                    include_tables=False, no_fallback=False)
         if text and len(text) >= MIN_TEXT_LENGTH:
