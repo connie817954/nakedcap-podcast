@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+trafilatura>=1.8
+edge-tts>=6.1
+pydub>=0.25
+lxml>=5.0        # trafilatura backend
