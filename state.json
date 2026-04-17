@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-02-22",
-      "title": "Links 2/21/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: Dog trained to illegally dump rubbish, Italian authorities say; The Cult Deprogrammer Who Needed Deprogramming; Biology\u2019s New Era: The historic shift from studying life to engineering it; Plastic surgeon pumps more drama into \u2018PenisGate\u2019 at Olympics with injection claim; The latest skincare fad is rubbing salmon sperm on your face\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-02-22.mp3",
-      "file_size": 32539851,
-      "duration": "01:07:47",
-      "pub_date": "2026-02-22T03:50:43.803381+00:00"
-    },
-    {
       "guid": "nc-links-2026-02-26",
       "title": "Links 2/26/2026",
       "description": "Daily Links from Naked Capitalism. 17 articles: How a Dog Mistaken for a Wolf Ended Up Running With Cross-Country Skiers at the 2026 Winter Olympics; Home Really Is Where the Heart Is; Chronic ocean heating fuels \u2018staggering\u2019 loss of marine life, study finds; Will Your State Bird Disappear?; These data center developers asked Trump for an exemption from pollution rules\u2026",
@@ -269,6 +260,15 @@
       "file_size": 48688780,
       "duration": "01:41:26",
       "pub_date": "2026-04-16T13:29:49.742307+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-17",
+      "title": "Links 4/17/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Alien Comet 3I/ATLAS Is Blasting 70 Swimming Pools of Water into Space Every Day and Astronomers Are Stunned; Reality Instruction; Critical Atlantic current significantly more likely to collapse than thought; \u2018We are missing data\u2019: NWS weather balloon changes scrutinized as tornados hit Midwest; Congress overturns ban on mining near the Boundary Waters\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-17.mp3",
+      "file_size": 36125452,
+      "duration": "01:15:15",
+      "pub_date": "2026-04-17T13:19:02.666646+00:00"
     }
   ]
 }
