@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-02-26",
-      "title": "Links 2/26/2026",
-      "description": "Daily Links from Naked Capitalism. 17 articles: How a Dog Mistaken for a Wolf Ended Up Running With Cross-Country Skiers at the 2026 Winter Olympics; Home Really Is Where the Heart Is; Chronic ocean heating fuels \u2018staggering\u2019 loss of marine life, study finds; Will Your State Bird Disappear?; These data center developers asked Trump for an exemption from pollution rules\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-02-26.mp3",
-      "file_size": 52047820,
-      "duration": "01:48:25",
-      "pub_date": "2026-02-26T14:44:59.946752+00:00"
-    },
-    {
       "guid": "nc-links-2026-02-27",
       "title": "Links 2/27/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Bad Stupid; US Government Is Accelerating Coral Reef Collapse, Scientists Warn; US \u2018bullying\u2019 could scupper carbon levy on shipping, warn experts; Extreme weather having an impact on farmers\u2019 mental health; A hotter, wetter South is becoming a breeding ground for mold\u2026",
@@ -269,6 +260,15 @@
       "file_size": 36125452,
       "duration": "01:15:15",
       "pub_date": "2026-04-17T13:19:02.666646+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-20",
+      "title": "Links 4/20/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: How Lonely Walks in Nature Can Make You Feel Less Alone; Pancreatic cancer mRNA vaccine shows lasting results in an early trial; AI is about to make the global e-waste crisis much worse; Long COVID is significantly underreported across the globe; U.S. Begins \u201cBiggest-Ever\u201d Military Drills \u2014 Balikatan 2026 \u2014 Near China; Beijing Says All Three \u201cPlaying With Fire\u201d\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-20.mp3",
+      "file_size": 24673420,
+      "duration": "00:51:24",
+      "pub_date": "2026-04-20T13:28:06.474274+00:00"
     }
   ]
 }
