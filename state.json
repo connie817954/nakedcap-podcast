@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-02-27",
-      "title": "Links 2/27/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Bad Stupid; US Government Is Accelerating Coral Reef Collapse, Scientists Warn; US \u2018bullying\u2019 could scupper carbon levy on shipping, warn experts; Extreme weather having an impact on farmers\u2019 mental health; A hotter, wetter South is becoming a breeding ground for mold\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-02-27.mp3",
-      "file_size": 37308748,
-      "duration": "01:17:43",
-      "pub_date": "2026-02-27T14:13:50.369377+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-02",
       "title": "Links 3/2/2026",
       "description": "Daily Links from Naked Capitalism. 9 articles: Scientists Reveal the Surprising Sex Lives of Neanderthals and Early Humans; In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT; Abrupt Gulf Stream path changes are a precursor to a collapse of the Atlantic Meridional Overturning Circulation; Trump issues chilling ultimatum in address to the nation as he vows to \u2018avenge\u2019 every American death in Iran war; 3 US troops killed in Iran operation and others injured.\u2026",
@@ -269,6 +260,15 @@
       "file_size": 24673420,
       "duration": "00:51:24",
       "pub_date": "2026-04-20T13:28:06.474274+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-21",
+      "title": "Links 4/21/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: California bear-suit luxury car scam ends in insurance fraud sentences for 3; FAA orders investigation into Blue Origin\u2019s New Glenn mishap; Nordic overturning increases as AMOC weakens in response to global warming; Global drought extremes in 2025; Corpus Christi Projects Emergency Water Restrictions in September for Large Industrial Users and 500,000 Customers\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-21.mp3",
+      "file_size": 22450828,
+      "duration": "00:46:46",
+      "pub_date": "2026-04-21T13:23:06.663378+00:00"
     }
   ]
 }
