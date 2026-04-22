@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-02",
-      "title": "Links 3/2/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: Scientists Reveal the Surprising Sex Lives of Neanderthals and Early Humans; In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT; Abrupt Gulf Stream path changes are a precursor to a collapse of the Atlantic Meridional Overturning Circulation; Trump issues chilling ultimatum in address to the nation as he vows to \u2018avenge\u2019 every American death in Iran war; 3 US troops killed in Iran operation and others injured.\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-02.mp3",
-      "file_size": 21941452,
-      "duration": "00:45:42",
-      "pub_date": "2026-03-02T14:33:43.645747+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-03",
       "title": "Links 3/3/2026",
       "description": "Daily Links from Naked Capitalism. 16 articles: Meet the Researchers Who Can Engineer Your Dreams; Wildfires in the Arctic May Be Releasing Far More Carbon Than We Thought; Massive concentrations of old dissolved organic carbon from Yedoma thaw in lakes in Siberia; Antarctica just saw the fastest glacier collapse ever recorded; 70% of European soils are degraded: experts warn of a hidden biodiversity crisis\u2026",
@@ -269,6 +260,15 @@
       "file_size": 22450828,
       "duration": "00:46:46",
       "pub_date": "2026-04-21T13:23:06.663378+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-22",
+      "title": "Links 4/22/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Could the Oldest Human Story Really Be 100,000 Years Old?; Who Knew? 1 In 5 Americans Are Convinced They\u2019re Psychic; The Trump administration wants to take an ax to the East\u2019s last great forests; HOW \u2018NATIONAL SECURITY\u2019 BECAME THE NEW JUSTIFICATION FOR DRILLING; Rusting Rivers: Alarm Grows Over Uptick in Acidic Arctic Waters\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-22.mp3",
+      "file_size": 30430540,
+      "duration": "01:03:23",
+      "pub_date": "2026-04-22T13:25:36.777691+00:00"
     }
   ]
 }
