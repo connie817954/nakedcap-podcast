@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-03",
-      "title": "Links 3/3/2026",
-      "description": "Daily Links from Naked Capitalism. 16 articles: Meet the Researchers Who Can Engineer Your Dreams; Wildfires in the Arctic May Be Releasing Far More Carbon Than We Thought; Massive concentrations of old dissolved organic carbon from Yedoma thaw in lakes in Siberia; Antarctica just saw the fastest glacier collapse ever recorded; 70% of European soils are degraded: experts warn of a hidden biodiversity crisis\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-03.mp3",
-      "file_size": 44057548,
-      "duration": "01:31:47",
-      "pub_date": "2026-03-03T14:36:31.949872+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-04",
       "title": "Links 3/4/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: Superagers\u2019 \u2018Secret Ingredient\u2019 May Be the Growth of New Brain Cells; Astronomers Estimated the Lifespan of Alien Civilizations, and It\u2019s Not Looking Good for Us; Much Of The Western Half Of The Country Had Its Warmest Winter On Record; Mountain soils reveal hidden nitrous oxide risk in a warming world; Deadly cassava virus threatens food security across Africa\u2026",
@@ -269,6 +260,15 @@
       "file_size": 30430540,
       "duration": "01:03:23",
       "pub_date": "2026-04-22T13:25:36.777691+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-23",
+      "title": "Links 4/23/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: Compassion And Responsibility, The Moral Architecture Of The Mind; In \u2018Major Earth Day Win,\u2019 House GOP Cancels Vote on Gutting Endangered Species Act; New Report: Half of U.S. Kids Are Breathing Dangerous Air Pollution; Oil spills from the Iran war are visible from space; Pollinators feel the climate sting: Warmer temperatures are forcing bees and wasps to emerge earlier, but at a cost to their survival\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-23.mp3",
+      "file_size": 42043276,
+      "duration": "01:27:35",
+      "pub_date": "2026-04-23T13:29:09.841113+00:00"
     }
   ]
 }
