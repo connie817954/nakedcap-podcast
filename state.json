@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-04",
-      "title": "Links 3/4/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: Superagers\u2019 \u2018Secret Ingredient\u2019 May Be the Growth of New Brain Cells; Astronomers Estimated the Lifespan of Alien Civilizations, and It\u2019s Not Looking Good for Us; Much Of The Western Half Of The Country Had Its Warmest Winter On Record; Mountain soils reveal hidden nitrous oxide risk in a warming world; Deadly cassava virus threatens food security across Africa\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-04.mp3",
-      "file_size": 26488780,
-      "duration": "00:55:11",
-      "pub_date": "2026-03-04T14:13:06.840386+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-05",
       "title": "Links 3/5/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: We Tested 49 More Baby Formulas for Lead and Arsenic; Global economic exposure to climate change amplified by spatially compounding climate extremes; A large immigration detention camp in Texas is closed to visitors amid measles outbreak; Arizona\u2019s water is drying up. That\u2019s not stopping the data center rush.; Korea\u2019s market plunge is just the start of Asia\u2019s Iran pain\u2026",
@@ -269,6 +260,15 @@
       "file_size": 42043276,
       "duration": "01:27:35",
       "pub_date": "2026-04-23T13:29:09.841113+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-24",
+      "title": "Links 4/24/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: A Swedish Library Forgot to Close Its Doors and Something Beautiful Happened; Construction Costs Rarely Fall; Over 2,500 people evacuated, 200ha burnt as wildfire in north-east Japan spreads; How Fires Burning In Georgia Now Are Worsened By 2024\u2019s Hurricane Helene; Why millions of adorable bees are emerging from this cemetery\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-24.mp3",
+      "file_size": 31963660,
+      "duration": "01:06:35",
+      "pub_date": "2026-04-24T13:22:59.648344+00:00"
     }
   ]
 }
