@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-05",
-      "title": "Links 3/5/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: We Tested 49 More Baby Formulas for Lead and Arsenic; Global economic exposure to climate change amplified by spatially compounding climate extremes; A large immigration detention camp in Texas is closed to visitors amid measles outbreak; Arizona\u2019s water is drying up. That\u2019s not stopping the data center rush.; Korea\u2019s market plunge is just the start of Asia\u2019s Iran pain\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-05.mp3",
-      "file_size": 32808076,
-      "duration": "01:08:20",
-      "pub_date": "2026-03-05T14:37:39.285566+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-06",
       "title": "Links 3/6/2026",
       "description": "Daily Links from Naked Capitalism. 7 articles: The strange animals that control their body heat; Sea level much higher than assumed in most coastal hazard assessments; US weighs asking China to curb Russian, Iranian oil purchases; China\u2019s critical mineral strategy beyond geopolitics; China\u2019s Financial and Fiscal Decay\u2026",
@@ -269,6 +260,15 @@
       "file_size": 31963660,
       "duration": "01:06:35",
       "pub_date": "2026-04-24T13:22:59.648344+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-27",
+      "title": "Links 4/27/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: California cities seek to bless polyamorous unions. Lawyers warn it will get messy in court; War, El Ni\u00f1o, Pestilence, and Famine: The Coming Shock to Global Food Supplies; I developed Long COVID while practicing medicine. The system had no place for me.; A Chinese-Style Kill Line?; How China\u2019s young workers are securing their future even as AI disrupts job market, triggers pay cuts\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-27.mp3",
+      "file_size": 29226892,
+      "duration": "01:00:53",
+      "pub_date": "2026-04-27T13:48:55.542650+00:00"
     }
   ]
 }
