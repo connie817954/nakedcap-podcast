@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-10",
-      "title": "Links 3/10/2026",
-      "description": "Daily Links from Naked Capitalism. 15 articles: Prepping for the Apocalypse? You May Want to Pack a Little Treat; Balayage to biodiversity: Are Europe\u2019s hairdressers the secret weapon in tackling climate change?; Can green fuels clean up aviation? Scientists say the math doesn\u2019t add up; Migratory species face rising extinction risk, new UN update warns; On the Farm, the Hidden Climate Cost of the Broken U.S. Health Care System\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-10.mp3",
-      "file_size": 41242252,
-      "duration": "01:25:55",
-      "pub_date": "2026-03-10T14:39:42.452455+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-11",
       "title": "Links 3/11/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: This 2-pound dinosaur is rewriting what scientists know about evolution; Where have all the Long COVID clinics gone?; U.S. Billion-Dollar Weather and Climate Disasters in 2025; Colorado River may deliver just a third of normal water supplies this spring, projections show; No Magnets, No Drones: How China Controls the Future of Warfare\u2026",
@@ -269,6 +260,15 @@
       "file_size": 38672332,
       "duration": "01:20:33",
       "pub_date": "2026-04-29T13:52:32.651217+00:00"
+    },
+    {
+      "guid": "nc-links-2026-04-30",
+      "title": "Links 4/30/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Do memories form on a blank slate?; \u2018Speed running\u2019 Scientology: TikTok trend causes havoc, church alleges \u2018hate crimes\u2019; European State of the Climate 2025: record heatwaves from the Mediterranean to the Arctic, while glaciers shrink and snow cover declines; Poleward migration of warm Circumpolar Deep Water towards Antarctica; We Are Bombarding America\u2019s Forests With Roundup\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-30.mp3",
+      "file_size": 36321292,
+      "duration": "01:15:40",
+      "pub_date": "2026-04-30T13:52:14.099512+00:00"
     }
   ]
 }
