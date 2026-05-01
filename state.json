@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-11",
-      "title": "Links 3/11/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: This 2-pound dinosaur is rewriting what scientists know about evolution; Where have all the Long COVID clinics gone?; U.S. Billion-Dollar Weather and Climate Disasters in 2025; Colorado River may deliver just a third of normal water supplies this spring, projections show; No Magnets, No Drones: How China Controls the Future of Warfare\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-11.mp3",
-      "file_size": 35051020,
-      "duration": "01:13:01",
-      "pub_date": "2026-03-11T14:40:21.543194+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-12",
       "title": "Links 3/12/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: Buffalo Wild Wings unveils wing-flavored protein espresso martini; Ig Nobel Prize flees US for Switzerland after 35 years over safety concerns; \u2018A sobering preview\u2019: extreme heat now affects one in three people globally, study finds; The tropics may be getting even hotter than expected, Brown researchers find; NY high court affirms benchmark for COVID-19 infections coverage\u2026",
@@ -269,6 +260,15 @@
       "file_size": 36321292,
       "duration": "01:15:40",
       "pub_date": "2026-04-30T13:52:14.099512+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-01",
+      "title": "Links 5/1/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: LIVESTREAM of May Day Protest from Around the country; The Debate Behind the Debate: Is the Exploitation of the Global South by the Global North the Main Contradiction of our Time?; How an Oil Refinery Works; Higher warming predictions for 2026 and 2027; China\u2019s \u201cFake\u201d De-Dollarization\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-01.mp3",
+      "file_size": 36189004,
+      "duration": "01:15:23",
+      "pub_date": "2026-05-01T13:18:43.606480+00:00"
     }
   ]
 }
