@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-12",
-      "title": "Links 3/12/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: Buffalo Wild Wings unveils wing-flavored protein espresso martini; Ig Nobel Prize flees US for Switzerland after 35 years over safety concerns; \u2018A sobering preview\u2019: extreme heat now affects one in three people globally, study finds; The tropics may be getting even hotter than expected, Brown researchers find; NY high court affirms benchmark for COVID-19 infections coverage\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-12.mp3",
-      "file_size": 18266188,
-      "duration": "00:38:03",
-      "pub_date": "2026-03-12T14:40:48.827118+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-13",
       "title": "Links 3/13/2026",
       "description": "Daily Links from Naked Capitalism. 9 articles: \u2018Sly stowaway\u2019 fox finds new home at Bronx Zoo after illicit transatlantic trip; Denmark\u2019s Floating Islands: Turning Urban Harbors into Havens for Bees and Birds; Mapped: How extreme weather is destroying crops around the world; Global Water Bankruptcy in the Anthropocene; Chinese investors pile into Hong Kong equities as inflation at home heads north\u2026",
@@ -269,6 +260,15 @@
       "file_size": 36189004,
       "duration": "01:15:23",
       "pub_date": "2026-05-01T13:18:43.606480+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-04",
+      "title": "Links 5/4/2026",
+      "description": "Daily Links from Naked Capitalism. 17 articles: The invention of buses; America\u2019s Electricity Gap; After 37 Years, the World\u2019s Longest-Running Soil Warming Experiment Uncovers a Startling Climate Secret; What happens when a farmer loses his soil?; this news\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-04.mp3",
+      "file_size": 47074444,
+      "duration": "01:38:04",
+      "pub_date": "2026-05-04T13:59:50.565612+00:00"
     }
   ]
 }
