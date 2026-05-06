@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-13",
-      "title": "Links 3/13/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: \u2018Sly stowaway\u2019 fox finds new home at Bronx Zoo after illicit transatlantic trip; Denmark\u2019s Floating Islands: Turning Urban Harbors into Havens for Bees and Birds; Mapped: How extreme weather is destroying crops around the world; Global Water Bankruptcy in the Anthropocene; Chinese investors pile into Hong Kong equities as inflation at home heads north\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-13.mp3",
-      "file_size": 18598156,
-      "duration": "00:38:44",
-      "pub_date": "2026-03-13T14:32:42.925934+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-16",
       "title": "Links 3/16/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: Northeast Ohio sees recent surge in Bigfoot sightings; Cream cheese recall upgraded as experts warn of \u2018serious adverse health consequences or death\u2019; Biggest wildfire in Nebraska history continues to burn out of control; Google proposes Nebraska data center requiring more power than all of Lincoln; Two protesters against the deployment of a US military base on an island in Japan have been killed.\u2026",
@@ -269,6 +260,15 @@
       "file_size": 47074444,
       "duration": "01:38:04",
       "pub_date": "2026-05-04T13:59:50.565612+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-06",
+      "title": "Links 5/6/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Word of the day: sonder; 4,000-year-old tablets reveal magic spells, kings feared, and a beer receipt; Get Them Off the Damn Boat! | M/V Hondius in Cape Verde with a Hantavirus Outbreak; Dangerous heavy rains are getting more likely and widespread; The Great Pacific Garbage Patch is a plastic trash nightmare. It could also be part of a much bigger, hidden problem\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-06.mp3",
+      "file_size": 30605260,
+      "duration": "01:03:45",
+      "pub_date": "2026-05-06T14:06:42.049343+00:00"
     }
   ]
 }
