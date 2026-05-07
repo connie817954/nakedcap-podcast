@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-16",
-      "title": "Links 3/16/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: Northeast Ohio sees recent surge in Bigfoot sightings; Cream cheese recall upgraded as experts warn of \u2018serious adverse health consequences or death\u2019; Biggest wildfire in Nebraska history continues to burn out of control; Google proposes Nebraska data center requiring more power than all of Lincoln; Two protesters against the deployment of a US military base on an island in Japan have been killed.\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-16.mp3",
-      "file_size": 24520396,
-      "duration": "00:51:04",
-      "pub_date": "2026-03-16T15:48:26.211060+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-17",
       "title": "Links 3/17/2026",
       "description": "Daily Links from Naked Capitalism. 15 articles: How God Got So Great; Sleep loss in a warming world; Unprecedented in the past 3.6 million years\u2019: How human-made climate change is making days longer; Warming Waters Threaten Seafood Supply; The Return of a Super El Ni\u00f1o: How the Rapid Collapse of La Ni\u00f1a is Triggering a Massive Global Shift for 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 30605260,
       "duration": "01:03:45",
       "pub_date": "2026-05-06T14:06:42.049343+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-07",
+      "title": "Links 5/7/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: Box turtles are back for the summer. Here\u2019s how to help them survive another year; When The Fields Were Ours; Is this the moment to change the way we think about economic growth?; \u2018Point of no return\u2019: New Orleans relocation must start now due to sea level, study finds; bird watching landfill excursion.\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-07.mp3",
+      "file_size": 42313420,
+      "duration": "01:28:09",
+      "pub_date": "2026-05-07T14:07:01.715120+00:00"
     }
   ]
 }
