@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-17",
-      "title": "Links 3/17/2026",
-      "description": "Daily Links from Naked Capitalism. 15 articles: How God Got So Great; Sleep loss in a warming world; Unprecedented in the past 3.6 million years\u2019: How human-made climate change is making days longer; Warming Waters Threaten Seafood Supply; The Return of a Super El Ni\u00f1o: How the Rapid Collapse of La Ni\u00f1a is Triggering a Massive Global Shift for 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-17.mp3",
-      "file_size": 39401356,
-      "duration": "01:22:05",
-      "pub_date": "2026-03-17T15:48:19.913145+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-27",
       "title": "Links 3/27/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Man\u2019s First Best Friend; How American Camouflage Conquered the World; Arctic sea ice at lowest level ever this winter; How declining cloudiness is accelerating global warming; SURGING ENERGY DEMAND HELPS FUEL TRUMP\u2019S LOVE AFFAIR WITH COAL\u2026",
@@ -269,6 +260,15 @@
       "file_size": 42313420,
       "duration": "01:28:09",
       "pub_date": "2026-05-07T14:07:01.715120+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-08",
+      "title": "Links 5/8/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: Learning to Speak Owl; There Is No \u2018Hard Problem Of Consciousness\u2019; Military slow-rolled news of jet fuel leak at base near Washington; Trump\u2019s NOAA cuts would save less than a day and a half of Iran War spending; Hantavirus-Infected Cruise Ship: Trump Says Americans \u2018Should Be Fine\u2019 As Experts Question US Preparedness\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-08.mp3",
+      "file_size": 28931596,
+      "duration": "01:00:16",
+      "pub_date": "2026-05-08T13:31:11.625678+00:00"
     }
   ]
 }
