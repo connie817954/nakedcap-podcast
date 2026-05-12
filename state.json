@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-30",
-      "title": "Links 3/30/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: Summit Sold Its Midwest Pipeline as a Carbon Solution. Now, It\u2019ll Be Used for Fossil Fuels.; Cyclone Narelle turns Australia\u2019s skies red; dramatic dust storm videos emerge; State of Nature; Chinese private equity circling Trump\u2019s school voucher gold rush; China Built the World\u2019s Largest Outdoor Escalator, and It\u2019s a Modern Marvel That Looks Like It Never Stops Rising Into the Sky\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-30.mp3",
-      "file_size": 26658124,
-      "duration": "00:55:32",
-      "pub_date": "2026-03-30T13:16:24.726893+00:00"
-    },
-    {
       "guid": "nc-links-2026-03-31",
       "title": "Links 3/31/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Scientists stretched a liquid and it snapped like a solid; Sharks in the Bahamas test positive for caffeine, painkillers and even cocaine, study finds; Deadly heat stress conditions are already occurring; Solar panels generate more electricity in the cold \u2013 Canadian homeowner shows how; China\u2019s \u2018teapot\u2019 oil refineries keep economy brewing \u2013 but surging crude prices leave them strained\u2026",
@@ -269,6 +260,15 @@
       "file_size": 27841612,
       "duration": "00:58:00",
       "pub_date": "2026-05-11T14:47:53.344084+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-12",
+      "title": "Links 5/12/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible; How are countries responding to hantavirus?; French woman was told by doctors hantavirus symptoms were just anxiety; Canadian Muskoxen Hit by Double Punch of Novel Diseases and Climate Change; A \u2018triple whammy\u2019 of chaos has triggered a downward spiral in Antarctica, scientists discover\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-12.mp3",
+      "file_size": 39518284,
+      "duration": "01:22:19",
+      "pub_date": "2026-05-12T14:25:25.899051+00:00"
     }
   ]
 }
