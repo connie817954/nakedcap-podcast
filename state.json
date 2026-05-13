@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-03-31",
-      "title": "Links 3/31/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Scientists stretched a liquid and it snapped like a solid; Sharks in the Bahamas test positive for caffeine, painkillers and even cocaine, study finds; Deadly heat stress conditions are already occurring; Solar panels generate more electricity in the cold \u2013 Canadian homeowner shows how; China\u2019s \u2018teapot\u2019 oil refineries keep economy brewing \u2013 but surging crude prices leave them strained\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-03-31.mp3",
-      "file_size": 28146508,
-      "duration": "00:58:38",
-      "pub_date": "2026-03-31T13:14:26.120080+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-01",
       "title": "Links 4/1/2026",
       "description": "Daily Links from Naked Capitalism. 9 articles: The Philosopher and the Tsar: When G. W. Leibniz Went to Work for the Russians; I\u2019m seeing more people in therapy struggling with war-related anxiety. Here\u2019s what helps; Do you have the new Covid variant, flu or other virus? Look out for these symptoms; \u201cNot a whole lot of substance\u201d: HHS posts Long COVID website, six months after making big promises; These Scientists Tested How Climate Change Affects Wild Meadows\u2014With Alarming Results\u2026",
@@ -269,6 +260,15 @@
       "file_size": 39518284,
       "duration": "01:22:19",
       "pub_date": "2026-05-12T14:25:25.899051+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-13",
+      "title": "Links 5/13/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Stunning fossil discovery challenges the origins of animal life; First Real-Time Brain-Controlled Hearing Device; Arts and Cultural Engagement \u2018Linked To Slower Pace of Biological Aging\u2019; WHO officials warn of more possible hantavirus cases in coming weeks; Woman Diagnosed With Hantavirus After Being on Cruise Ship Now on an Artificial Lung in \u2018Final Stage of Supportive Care,\u2019 Doctor Says\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-13.mp3",
+      "file_size": 27671884,
+      "duration": "00:57:38",
+      "pub_date": "2026-05-13T14:53:41.513418+00:00"
     }
   ]
 }
