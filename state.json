@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-01",
-      "title": "Links 4/1/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: The Philosopher and the Tsar: When G. W. Leibniz Went to Work for the Russians; I\u2019m seeing more people in therapy struggling with war-related anxiety. Here\u2019s what helps; Do you have the new Covid variant, flu or other virus? Look out for these symptoms; \u201cNot a whole lot of substance\u201d: HHS posts Long COVID website, six months after making big promises; These Scientists Tested How Climate Change Affects Wild Meadows\u2014With Alarming Results\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-01.mp3",
-      "file_size": 28016524,
-      "duration": "00:58:21",
-      "pub_date": "2026-04-01T13:18:29.472795+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-02",
       "title": "Links 4/2/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Scientists Create Plant That Produces Ayahuasca, Shrooms, and Toad Psychedelics All At Once; There was a bit of toilet trouble on NASA\u2019s Artemis 2 mission to the moon; Chocolate Spiked with Potentially \u2018Life-Threatening\u2019 Amounts of Viagra Ingredients Recalled; There\u2019s a startling new plastic surgery trend. It\u2019s called \u2018rib remodeling.\u2019; Oceans are absorbing the Earth\u2019s excess energy. That\u2019s bad news for food systems.\u2026",
@@ -269,6 +260,15 @@
       "file_size": 27671884,
       "duration": "00:57:38",
       "pub_date": "2026-05-13T14:53:41.513418+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-14",
+      "title": "Links 5/14/2026",
+      "description": "Daily Links from Naked Capitalism. 8 articles: Physicists find evidence that the universe isn\u2019t perfectly uniform \u2014 potentially unraveling a 100-year-old model of cosmology; Glasgow Man Crashes Car Into Mural Resembling Tunnel Entrance; Record-breaking glacier mass loss in Central Asia in 2025; French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11; Xi Jinping says China and US should be partners, not rivals, as summit gets underway\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-14.mp3",
+      "file_size": 16795852,
+      "duration": "00:34:59",
+      "pub_date": "2026-05-14T14:07:51.361008+00:00"
     }
   ]
 }
