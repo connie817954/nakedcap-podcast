@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-07",
-      "title": "Links 4/7/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Artemis 2 breaks humanity\u2019s all-time distance record during historic loop around the moon (video); Air pollution kills 7.9 million a year; Soon after massive honeybee deaths, Trump moves to close the nation\u2019s premier bee lab; Trump\u2019s \u2018God Squad\u2019 blocks endangered species protections in the Gulf of Mexico; Trump\u2019s Budget Proposes Massive Cuts for Climate and Environmental Programs\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-07.mp3",
-      "file_size": 39222412,
-      "duration": "01:21:42",
-      "pub_date": "2026-04-07T13:20:18.369969+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-08",
       "title": "Links 4/8/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Men are worse at shopping; Pick One from Three (All Three Numbers Are Correct); cientists just watched Alzheimer\u2019s damage happen in real time; How Costco Is Lowering IVF Costs and Expanding Fertility Access (Exclusive); \u201cEconomic Civil War\u201d: States Push Laws to Shield Oil and Gas Companies From Accountability\u2026",
@@ -269,6 +260,15 @@
       "file_size": 25268620,
       "duration": "00:52:38",
       "pub_date": "2026-05-19T15:00:25.932809+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-20",
+      "title": "Links 5/20/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: Hidden earthquake faults beneath Seattle may be more dangerous than expected; American tests positive for Ebola; U.S. to screen travelers at airports; Hantavirus in Africa: why climate change, rats and weak surveillance are worrying scientists; A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way; Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-20.mp3",
+      "file_size": 24659212,
+      "duration": "00:51:22",
+      "pub_date": "2026-05-20T15:02:00.551571+00:00"
     }
   ]
 }
