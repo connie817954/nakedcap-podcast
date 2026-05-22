@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-09",
-      "title": "Links 4/9/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: AMOC collapse could turn Southern Ocean into carbon source, adding 0.2\u00b0C to global warming; From war to weather: A \u2018super El Ni\u00f1o\u2019 event poses fresh risks to global food costs; Why this NASA climate scientist wants you to stay angry; Preprint: Bovine H5N1 Influenza Viruses Have Adapted to More Efficiently Use Receptors Abundant in Cattle; Flea-borne typhus surges across LA County with 90% of cases requiring hospitalization\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-09.mp3",
-      "file_size": 28153036,
-      "duration": "00:58:39",
-      "pub_date": "2026-04-09T13:24:06.549378+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-10",
       "title": "Links 4/10/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: The One Arm an Octopus Will Never Risk in a Fight\u2014Its Sex Arm; The world just had its second-warmest March on record; Vampire bats in Mexico may feed on CWD-positive deer, spreading disease and posing species-jump threat; As Shrinking Colorado River Imperils California Agriculture, Data Centers Seek More Water; Japan\u2019s quiet break with pacifism is about to get louder\u2026",
@@ -269,6 +260,15 @@
       "file_size": 25846348,
       "duration": "00:53:50",
       "pub_date": "2026-05-21T15:05:25.671591+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-22",
+      "title": "Links 5/22/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: James Bond fans launch fundraiser for statue of supervillain Blofeld in his Polish \u201chometown\u201d; Sea level rise is swallowing Mid-Atlantic farmland faster than expected, study finds; Hard Rain; Scenarios, schmenarios\u2026; THE HONEY COLLECTORS WHO RISK THEIR LIVES IN TIGER COUNTRY\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-22.mp3",
+      "file_size": 28890124,
+      "duration": "01:00:11",
+      "pub_date": "2026-05-22T14:36:36.059837+00:00"
     }
   ]
 }
