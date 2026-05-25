@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-10",
-      "title": "Links 4/10/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: The One Arm an Octopus Will Never Risk in a Fight\u2014Its Sex Arm; The world just had its second-warmest March on record; Vampire bats in Mexico may feed on CWD-positive deer, spreading disease and posing species-jump threat; As Shrinking Colorado River Imperils California Agriculture, Data Centers Seek More Water; Japan\u2019s quiet break with pacifism is about to get louder\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-10.mp3",
-      "file_size": 37095628,
-      "duration": "01:17:16",
-      "pub_date": "2026-04-10T13:08:17.391720+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-13",
       "title": "Links 4/13/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Students fabricate randy robo-grouse whose strut could save birds at Jackson Hole Airport; Elon-Headed Robot Dog Spotted In San Francisco; What is \u201cAmerica\u2019s tortured brow\u201d and what does Mickey Mouse have to do with it?; A \u2018Ring Strategy\u2019 for Bird Flu; China offers incentives to Taiwan following opposition leader\u2019s visit\u2026",
@@ -269,6 +260,15 @@
       "file_size": 28890124,
       "duration": "01:00:11",
       "pub_date": "2026-05-22T14:36:36.059837+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-25",
+      "title": "Links 5/25/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: The unexpected science hiding in Dante\u2019s \u2018Inferno\u2019; Scientists create miniature nuclear fireball to understand how radioactive dust is born; Study Finds Pro Chess Players Make Better Moves When They Decide Faster; I Went Looking for the Origins of Clothing and Nearly Got Hypothermia; Heat Dome Update: Europe Braces for Record-Breaking Late May Heatwave\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-25.mp3",
+      "file_size": 33529420,
+      "duration": "01:09:51",
+      "pub_date": "2026-05-25T14:53:02.291969+00:00"
     }
   ]
 }
