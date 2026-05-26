@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-13",
-      "title": "Links 4/13/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Students fabricate randy robo-grouse whose strut could save birds at Jackson Hole Airport; Elon-Headed Robot Dog Spotted In San Francisco; What is \u201cAmerica\u2019s tortured brow\u201d and what does Mickey Mouse have to do with it?; A \u2018Ring Strategy\u2019 for Bird Flu; China offers incentives to Taiwan following opposition leader\u2019s visit\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-13.mp3",
-      "file_size": 31813132,
-      "duration": "01:06:16",
-      "pub_date": "2026-04-13T13:24:52.066713+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-14",
       "title": "Links 4/14/2026",
       "description": "Daily Links from Naked Capitalism. 9 articles: 110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together; Are we heading for \u2018super El Ni\u00f1o\u2019 \u2013 and what could we expect?; Red List alarm: Emperor penguins, Antarctic fur seals \u2018Endangered\u2019; India\u2019s Worrying Plans for Dams on Transboundary Rivers Shared with Banglades; India considers snakes, crocs for border duty along Bangladesh\u2026",
@@ -269,6 +260,15 @@
       "file_size": 33529420,
       "duration": "01:09:51",
       "pub_date": "2026-05-25T14:53:02.291969+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-26",
+      "title": "Links 5/26/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: This prehistoric fish may explain how animals first walked on Earth; The \u2018cockroaches\u2019 India\u2019s elite created \u2014 and can\u2019t exterminate; Indonesia faces \u2018vicious\u2019 stagflation; Unrest in Somalia\u2019s southwest as federalists battle regional force; In Sudan\u2019s war economy, gold keeps flowing as miners risk mercury and collapse\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-26.mp3",
+      "file_size": 22952524,
+      "duration": "00:47:48",
+      "pub_date": "2026-05-26T15:21:08.309829+00:00"
     }
   ]
 }
