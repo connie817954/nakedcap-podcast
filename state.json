@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-14",
-      "title": "Links 4/14/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: 110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together; Are we heading for \u2018super El Ni\u00f1o\u2019 \u2013 and what could we expect?; Red List alarm: Emperor penguins, Antarctic fur seals \u2018Endangered\u2019; India\u2019s Worrying Plans for Dams on Transboundary Rivers Shared with Banglades; India considers snakes, crocs for border duty along Bangladesh\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-14.mp3",
-      "file_size": 24196876,
-      "duration": "00:50:24",
-      "pub_date": "2026-04-14T14:18:18.384967+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-15",
       "title": "Links 4/15/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: Determined Woman Makes It Her Mission to Rescue Every Abandoned Dog in Her Georgia Community; Global carbon emissions and decarbonization in 2025; Forest Service shake-up will boost states\u2019 role \u2014 but even supporters have concerns; How many people does heat actually kill?; Google Says Showing Polymarket Bets on Google News Was a Mistake\u2026",
@@ -269,6 +260,15 @@
       "file_size": 22952524,
       "duration": "00:47:48",
       "pub_date": "2026-05-26T15:21:08.309829+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-27",
+      "title": "Links 5/27/2026",
+      "description": "Daily Links from Naked Capitalism. 7 articles: Don\u2019t Trash Your Old Vapes. NYC\u2019s Volunteer Recyclers Want Them; Reef fish communities are collapsing under climate stress; Climate change weakens the purification function of lakes; Deadly fungal storms are now sweeping the US \u2013 and spreading a disease few doctors recognise; America\u2019s Water Crisis Can No Longer Be Ignored\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-27.mp3",
+      "file_size": 21369484,
+      "duration": "00:44:31",
+      "pub_date": "2026-05-27T15:39:49.314831+00:00"
     }
   ]
 }
