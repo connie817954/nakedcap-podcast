@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-15",
-      "title": "Links 4/15/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: Determined Woman Makes It Her Mission to Rescue Every Abandoned Dog in Her Georgia Community; Global carbon emissions and decarbonization in 2025; Forest Service shake-up will boost states\u2019 role \u2014 but even supporters have concerns; How many people does heat actually kill?; Google Says Showing Polymarket Bets on Google News Was a Mistake\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-15.mp3",
-      "file_size": 26649676,
-      "duration": "00:55:31",
-      "pub_date": "2026-04-15T13:22:56.659207+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-16",
       "title": "Links 4/16/2026",
       "description": "Daily Links from Naked Capitalism. 15 articles: The air is full of DNA \u2014 here\u2019s what scientists are using it for; Your Electric Car Could Actually Earn You Money to Power the Grid; A New Eye Opens at the Top of the World.; Scientists Grow Electronics Inside the Brains of Living Mice; Susan Estrich: Long covid: Waiting for a cure\u2026",
@@ -269,6 +260,15 @@
       "file_size": 21369484,
       "duration": "00:44:31",
       "pub_date": "2026-05-27T15:39:49.314831+00:00"
+    },
+    {
+      "guid": "nc-links-2026-05-28",
+      "title": "Links 5/28/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Australian man accidentally walks a fashion show thinking it was beach stairs; American patriots have a plan to build giant statues of Lewis and Clark on the Missouri River like the Argonath from \u201cLord of the Rings\u201d; Hunt on for \u2018Ranksy\u2019 graffiti artist who sprayed \u2018I farted in yoga\u2019 on London wall; May 27, 2026; Why India\u2019s heatwaves feel more brutal than ever as warnings issued over \u2018killer\u2019 48C heat\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-28.mp3",
+      "file_size": 22671628,
+      "duration": "00:47:13",
+      "pub_date": "2026-05-28T15:48:09.044714+00:00"
     }
   ]
 }
