@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-16",
-      "title": "Links 4/16/2026",
-      "description": "Daily Links from Naked Capitalism. 15 articles: The air is full of DNA \u2014 here\u2019s what scientists are using it for; Your Electric Car Could Actually Earn You Money to Power the Grid; A New Eye Opens at the Top of the World.; Scientists Grow Electronics Inside the Brains of Living Mice; Susan Estrich: Long covid: Waiting for a cure\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-16.mp3",
-      "file_size": 48688780,
-      "duration": "01:41:26",
-      "pub_date": "2026-04-16T13:29:49.742307+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-17",
       "title": "Links 4/17/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Alien Comet 3I/ATLAS Is Blasting 70 Swimming Pools of Water into Space Every Day and Astronomers Are Stunned; Reality Instruction; Critical Atlantic current significantly more likely to collapse than thought; \u2018We are missing data\u2019: NWS weather balloon changes scrutinized as tornados hit Midwest; Congress overturns ban on mining near the Boundary Waters\u2026",
@@ -269,6 +260,15 @@
       "file_size": 22671628,
       "duration": "00:47:13",
       "pub_date": "2026-05-28T15:48:09.044714+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-12",
+      "title": "Links 6/12/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: When Bigfoot Finds You; #science; #Cristina; June 10, 2026; Scientists Found Bacteria Thriving Inside Fog and Eating Air Pollution\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-12.mp3",
+      "file_size": 19435468,
+      "duration": "00:40:29",
+      "pub_date": "2026-06-12T14:55:37.013545+00:00"
     }
   ]
 }
