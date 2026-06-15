@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-17",
-      "title": "Links 4/17/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Alien Comet 3I/ATLAS Is Blasting 70 Swimming Pools of Water into Space Every Day and Astronomers Are Stunned; Reality Instruction; Critical Atlantic current significantly more likely to collapse than thought; \u2018We are missing data\u2019: NWS weather balloon changes scrutinized as tornados hit Midwest; Congress overturns ban on mining near the Boundary Waters\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-17.mp3",
-      "file_size": 36125452,
-      "duration": "01:15:15",
-      "pub_date": "2026-04-17T13:19:02.666646+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-20",
       "title": "Links 4/20/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: How Lonely Walks in Nature Can Make You Feel Less Alone; Pancreatic cancer mRNA vaccine shows lasting results in an early trial; AI is about to make the global e-waste crisis much worse; Long COVID is significantly underreported across the globe; U.S. Begins \u201cBiggest-Ever\u201d Military Drills \u2014 Balikatan 2026 \u2014 Near China; Beijing Says All Three \u201cPlaying With Fire\u201d\u2026",
@@ -269,6 +260,15 @@
       "file_size": 19435468,
       "duration": "00:40:29",
       "pub_date": "2026-06-12T14:55:37.013545+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-15",
+      "title": "Links 6/15/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: Aliens Might Exist, But These 3 Reasons Explain Why They\u2019re Not Visiting Us; Earth\u2019s Underground Fungus Network Is So Gigantic That If You Stretched It Out, It Would Reach to Other Star Systems; June 14, 2026; Phytoplankton decline hints trouble for north Atlantic food webs; June 14, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-15.mp3",
+      "file_size": 17550220,
+      "duration": "00:36:33",
+      "pub_date": "2026-06-15T17:14:37.826199+00:00"
     }
   ]
 }
