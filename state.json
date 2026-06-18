@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-21",
-      "title": "Links 4/21/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: California bear-suit luxury car scam ends in insurance fraud sentences for 3; FAA orders investigation into Blue Origin\u2019s New Glenn mishap; Nordic overturning increases as AMOC weakens in response to global warming; Global drought extremes in 2025; Corpus Christi Projects Emergency Water Restrictions in September for Large Industrial Users and 500,000 Customers\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-21.mp3",
-      "file_size": 22450828,
-      "duration": "00:46:46",
-      "pub_date": "2026-04-21T13:23:06.663378+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-22",
       "title": "Links 4/22/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Could the Oldest Human Story Really Be 100,000 Years Old?; Who Knew? 1 In 5 Americans Are Convinced They\u2019re Psychic; The Trump administration wants to take an ax to the East\u2019s last great forests; HOW \u2018NATIONAL SECURITY\u2019 BECAME THE NEW JUSTIFICATION FOR DRILLING; Rusting Rivers: Alarm Grows Over Uptick in Acidic Arctic Waters\u2026",
@@ -269,6 +260,15 @@
       "file_size": 36222796,
       "duration": "01:15:27",
       "pub_date": "2026-06-16T16:51:22.693978+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-18",
+      "title": "Links 6/18/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Ohio Police Fire Robocop for Helping Make Zero Arrests and Failing to Issue a Single Ticket; Ad listing for $7m Tokyo apartment with \u2018invisible man\u2019 goes viral; \u2018Most famous tree in the world\u2019: Sherwood Forest\u2019s 1,000-year-old Major oak dies; June 17, 2026; \u2018Sponge Cities\u2019 Are Catching On. But Can They Handle Supercharged Storms?\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-18.mp3",
+      "file_size": 30488716,
+      "duration": "01:03:31",
+      "pub_date": "2026-06-18T15:06:42.832854+00:00"
     }
   ]
 }
