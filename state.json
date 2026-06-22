@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-23",
-      "title": "Links 4/23/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Compassion And Responsibility, The Moral Architecture Of The Mind; In \u2018Major Earth Day Win,\u2019 House GOP Cancels Vote on Gutting Endangered Species Act; New Report: Half of U.S. Kids Are Breathing Dangerous Air Pollution; Oil spills from the Iran war are visible from space; Pollinators feel the climate sting: Warmer temperatures are forcing bees and wasps to emerge earlier, but at a cost to their survival\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-23.mp3",
-      "file_size": 42043276,
-      "duration": "01:27:35",
-      "pub_date": "2026-04-23T13:29:09.841113+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-24",
       "title": "Links 4/24/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: A Swedish Library Forgot to Close Its Doors and Something Beautiful Happened; Construction Costs Rarely Fall; Over 2,500 people evacuated, 200ha burnt as wildfire in north-east Japan spreads; How Fires Burning In Georgia Now Are Worsened By 2024\u2019s Hurricane Helene; Why millions of adorable bees are emerging from this cemetery\u2026",
@@ -269,6 +260,15 @@
       "file_size": 20333836,
       "duration": "00:42:21",
       "pub_date": "2026-06-19T15:03:18.185664+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-22",
+      "title": "Links 6/22/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: Acoustic mapping app uses thousands of networked old Android phones to hunt Shahed drones \u2014 crowd-sourced microphone network spots small, low-RCS military targets; European countries close schools, cancel trains as heatwave set to intensify; June 22, 2026; Utah wildfire forces evacuation of small town as extreme heat roasts US west; Comprehensive national climate damage assessments framework applied to the UK\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-22.mp3",
+      "file_size": 32243212,
+      "duration": "01:07:10",
+      "pub_date": "2026-06-22T16:57:33.237748+00:00"
     }
   ]
 }
