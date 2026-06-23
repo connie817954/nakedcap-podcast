@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-24",
-      "title": "Links 4/24/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: A Swedish Library Forgot to Close Its Doors and Something Beautiful Happened; Construction Costs Rarely Fall; Over 2,500 people evacuated, 200ha burnt as wildfire in north-east Japan spreads; How Fires Burning In Georgia Now Are Worsened By 2024\u2019s Hurricane Helene; Why millions of adorable bees are emerging from this cemetery\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-24.mp3",
-      "file_size": 31963660,
-      "duration": "01:06:35",
-      "pub_date": "2026-04-24T13:22:59.648344+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-27",
       "title": "Links 4/27/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: California cities seek to bless polyamorous unions. Lawyers warn it will get messy in court; War, El Ni\u00f1o, Pestilence, and Famine: The Coming Shock to Global Food Supplies; I developed Long COVID while practicing medicine. The system had no place for me.; A Chinese-Style Kill Line?; How China\u2019s young workers are securing their future even as AI disrupts job market, triggers pay cuts\u2026",
@@ -269,6 +260,15 @@
       "file_size": 32243212,
       "duration": "01:07:10",
       "pub_date": "2026-06-22T16:57:33.237748+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-23",
+      "title": "Links 6/23/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Overfed Orange Cat Who Looks Like a Pumpkin Finds a Loving Home With SPCA Cincinnati\u2019s CEO; June 19, 2026; @RamyInocencio; June 22, 2026; #Ebola\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-23.mp3",
+      "file_size": 19098508,
+      "duration": "00:39:47",
+      "pub_date": "2026-06-23T14:46:52.194087+00:00"
     }
   ]
 }
