@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-27",
-      "title": "Links 4/27/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: California cities seek to bless polyamorous unions. Lawyers warn it will get messy in court; War, El Ni\u00f1o, Pestilence, and Famine: The Coming Shock to Global Food Supplies; I developed Long COVID while practicing medicine. The system had no place for me.; A Chinese-Style Kill Line?; How China\u2019s young workers are securing their future even as AI disrupts job market, triggers pay cuts\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-27.mp3",
-      "file_size": 29226892,
-      "duration": "01:00:53",
-      "pub_date": "2026-04-27T13:48:55.542650+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-28",
       "title": "Links 4/28/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: This tiny mammal survived the dinosaur apocalypse and changed life on Earth; DNA research just rewrote the origin of human species; \u2018A remarkable time capsule\u2019: The enchanting history of Oxford University\u2019s 750-year-old medieval library; The Next \u2018Forever Chemical\u2019 May Already Be in the Air. Scientists Still Don\u2019t Understand What It Could Do; An El Nino forecast pointing to the strongest event in decades is raising concerns about global crop production as farmers also face supply disruptions linked to the Iran war\u2026",
@@ -269,6 +260,15 @@
       "file_size": 19098508,
       "duration": "00:39:47",
       "pub_date": "2026-06-23T14:46:52.194087+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-24",
+      "title": "Links 6/24/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: New recommendation: Allowed to be buried with pet\u2019s ashes; The tea in your kombucha changes more than just the taste; Three everyday oils are driving a global biodiversity crisis; Warning: Arctic Permafrost Could Become a Major Carbon Source Earlier Than Expected; June 22, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-24.mp3",
+      "file_size": 19405132,
+      "duration": "00:40:25",
+      "pub_date": "2026-06-24T14:29:12.592963+00:00"
     }
   ]
 }
