@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-29",
-      "title": "Links 4/28/2026",
-      "description": "Daily Links from Naked Capitalism. 15 articles: This tiny mammal survived the dinosaur apocalypse and changed life on Earth; DNA research just rewrote the origin of human species; \u2018A remarkable time capsule\u2019: The enchanting history of Oxford University\u2019s 750-year-old medieval library; The Next \u2018Forever Chemical\u2019 May Already Be in the Air. Scientists Still Don\u2019t Understand What It Could Do; An El Nino forecast pointing to the strongest event in decades is raising concerns about global crop production as farmers also face supply disruptions linked to the Iran war\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-29.mp3",
-      "file_size": 38672332,
-      "duration": "01:20:33",
-      "pub_date": "2026-04-29T13:52:32.651217+00:00"
-    },
-    {
       "guid": "nc-links-2026-04-30",
       "title": "Links 4/30/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Do memories form on a blank slate?; \u2018Speed running\u2019 Scientology: TikTok trend causes havoc, church alleges \u2018hate crimes\u2019; European State of the Climate 2025: record heatwaves from the Mediterranean to the Arctic, while glaciers shrink and snow cover declines; Poleward migration of warm Circumpolar Deep Water towards Antarctica; We Are Bombarding America\u2019s Forests With Roundup\u2026",
@@ -269,6 +260,15 @@
       "file_size": 24276940,
       "duration": "00:50:34",
       "pub_date": "2026-06-25T14:29:58.811920+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-26",
+      "title": "Links 6/26/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: Why the West stopped making land; Does Living Abroad Actually Change Who You Are? Study Offers Nuanced Answer; Super El Ni\u00f1o Is Now Breaking Into the Atmosphere as July Forecasts Show a Pattern Shift for the U.S. and Canada; June 25, 2026; Europe\u2019s extreme heat is shutting down power plants\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-26.mp3",
+      "file_size": 33810892,
+      "duration": "01:10:26",
+      "pub_date": "2026-06-26T14:23:38.439022+00:00"
     }
   ]
 }
