@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-04-30",
-      "title": "Links 4/30/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Do memories form on a blank slate?; \u2018Speed running\u2019 Scientology: TikTok trend causes havoc, church alleges \u2018hate crimes\u2019; European State of the Climate 2025: record heatwaves from the Mediterranean to the Arctic, while glaciers shrink and snow cover declines; Poleward migration of warm Circumpolar Deep Water towards Antarctica; We Are Bombarding America\u2019s Forests With Roundup\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-04-30.mp3",
-      "file_size": 36321292,
-      "duration": "01:15:40",
-      "pub_date": "2026-04-30T13:52:14.099512+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-01",
       "title": "Links 5/1/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: LIVESTREAM of May Day Protest from Around the country; The Debate Behind the Debate: Is the Exploitation of the Global South by the Global North the Main Contradiction of our Time?; How an Oil Refinery Works; Higher warming predictions for 2026 and 2027; China\u2019s \u201cFake\u201d De-Dollarization\u2026",
@@ -269,6 +260,15 @@
       "file_size": 33810892,
       "duration": "01:10:26",
       "pub_date": "2026-06-26T14:23:38.439022+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-29",
+      "title": "Links 6/29/2026",
+      "description": "Daily Links from Naked Capitalism. 15 articles: Woman Surprised When Flock Surveillance Tower Appears in Her Yard Without Warning; The Witch Swoops Back Into the Spotlight; The Year 536 AD Was So Bad It May Have Been the Worst Time in Human History to Be Alive; Flash flooding kills 4 in Kentucky, 1 in Tennessee, prompts numerous water rescues; June 29, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-29.mp3",
+      "file_size": 25421068,
+      "duration": "00:52:57",
+      "pub_date": "2026-06-29T15:44:36.937089+00:00"
     }
   ]
 }
