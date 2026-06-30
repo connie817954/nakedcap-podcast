@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-01",
-      "title": "Links 5/1/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: LIVESTREAM of May Day Protest from Around the country; The Debate Behind the Debate: Is the Exploitation of the Global South by the Global North the Main Contradiction of our Time?; How an Oil Refinery Works; Higher warming predictions for 2026 and 2027; China\u2019s \u201cFake\u201d De-Dollarization\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-01.mp3",
-      "file_size": 36189004,
-      "duration": "01:15:23",
-      "pub_date": "2026-05-01T13:18:43.606480+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-04",
       "title": "Links 5/4/2026",
       "description": "Daily Links from Naked Capitalism. 17 articles: The invention of buses; America\u2019s Electricity Gap; After 37 Years, the World\u2019s Longest-Running Soil Warming Experiment Uncovers a Startling Climate Secret; What happens when a farmer loses his soil?; this news\u2026",
@@ -269,6 +260,15 @@
       "file_size": 25421068,
       "duration": "00:52:57",
       "pub_date": "2026-06-29T15:44:36.937089+00:00"
+    },
+    {
+      "guid": "nc-links-2026-06-30",
+      "title": "Links 6/30/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: \u2018No one believed it\u2019: how a YouTube video accidentally proved Libya\u2019s sand cat really does exist; Mountain lions changed everything in this tiny California preserve; Lost in Translation; Kids Are Flying Into Lunatic Rages When Their iPads Are Taken Away; Sri Lanka\u2019s dengue outbreak reaches epidemic level as cases top 50,000: Health officials\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-30.mp3",
+      "file_size": 37132300,
+      "duration": "01:17:21",
+      "pub_date": "2026-06-30T14:16:51.014621+00:00"
     }
   ]
 }
