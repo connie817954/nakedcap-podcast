@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-06",
-      "title": "Links 5/6/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Word of the day: sonder; 4,000-year-old tablets reveal magic spells, kings feared, and a beer receipt; Get Them Off the Damn Boat! | M/V Hondius in Cape Verde with a Hantavirus Outbreak; Dangerous heavy rains are getting more likely and widespread; The Great Pacific Garbage Patch is a plastic trash nightmare. It could also be part of a much bigger, hidden problem\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-06.mp3",
-      "file_size": 30605260,
-      "duration": "01:03:45",
-      "pub_date": "2026-05-06T14:06:42.049343+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-07",
       "title": "Links 5/7/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Box turtles are back for the summer. Here\u2019s how to help them survive another year; When The Fields Were Ours; Is this the moment to change the way we think about economic growth?; \u2018Point of no return\u2019: New Orleans relocation must start now due to sea level, study finds; bird watching landfill excursion.\u2026",
@@ -269,6 +260,15 @@
       "file_size": 22015948,
       "duration": "00:45:51",
       "pub_date": "2026-07-01T14:32:37.743490+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-02",
+      "title": "Links 7/2/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: 2 people arrested after hanging a banner about \u2018the power of love\u2019 on Empire State Building antenna; Copernicus Marine and Copernicus Climate Change: Daily global sea surface temperatures break records for the time of year; As Heat Wave Spreads Across the US, Data Centers Strain Electrical Grids; Death toll exceeds 20,000 across Europe in June 2026 heat wave; Banks are financing the fossil fuel industry\u2019s next growth strategy\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-02.mp3",
+      "file_size": 23895628,
+      "duration": "00:49:46",
+      "pub_date": "2026-07-02T13:56:04.649112+00:00"
     }
   ]
 }
