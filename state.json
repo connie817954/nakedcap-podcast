@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-07",
-      "title": "Links 5/7/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Box turtles are back for the summer. Here\u2019s how to help them survive another year; When The Fields Were Ours; Is this the moment to change the way we think about economic growth?; \u2018Point of no return\u2019: New Orleans relocation must start now due to sea level, study finds; bird watching landfill excursion.\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-07.mp3",
-      "file_size": 42313420,
-      "duration": "01:28:09",
-      "pub_date": "2026-05-07T14:07:01.715120+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-08",
       "title": "Links 5/8/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: Learning to Speak Owl; There Is No \u2018Hard Problem Of Consciousness\u2019; Military slow-rolled news of jet fuel leak at base near Washington; Trump\u2019s NOAA cuts would save less than a day and a half of Iran War spending; Hantavirus-Infected Cruise Ship: Trump Says Americans \u2018Should Be Fine\u2019 As Experts Question US Preparedness\u2026",
@@ -269,6 +260,15 @@
       "file_size": 23895628,
       "duration": "00:49:46",
       "pub_date": "2026-07-02T13:56:04.649112+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-03",
+      "title": "Links 7/3/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: Artificial cell manages a few rounds of cell division; NYC hotel evacuated after bear spray released inside, NYPD says; Mystery leak from semi-truck in Ohio turns out to be Franks RedHot; July 3, 2026; Canadian Power Line Meant to Shore Up NYC During Heat Waves Went Down For a Day\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-03.mp3",
+      "file_size": 22575436,
+      "duration": "00:47:01",
+      "pub_date": "2026-07-03T13:59:35.204113+00:00"
     }
   ]
 }
