@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-11",
-      "title": "Links 5/11/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: THE WORLD IN AN HOURGLASS: THE SINGING PHYSICS OF SAND; Seafloor video-acoustic monitoring in a Greenlandic glacial fjord records hyperbenthos, backward-swimming fish, and narwhals; No mandatory quarantine for US passengers: CDC official; American passengers from hantavirus-hit cruise ship to stop at Nebraska facility before heading home. Here\u2019s what we know; French evacuee from hantavirus-hit ship has \u2018symptoms\u2019: French PM\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-11.mp3",
-      "file_size": 27841612,
-      "duration": "00:58:00",
-      "pub_date": "2026-05-11T14:47:53.344084+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-12",
       "title": "Links 5/12/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible; How are countries responding to hantavirus?; French woman was told by doctors hantavirus symptoms were just anxiety; Canadian Muskoxen Hit by Double Punch of Novel Diseases and Climate Change; A \u2018triple whammy\u2019 of chaos has triggered a downward spiral in Antarctica, scientists discover\u2026",
@@ -269,6 +260,15 @@
       "file_size": 16419724,
       "duration": "00:34:12",
       "pub_date": "2026-07-06T15:28:45.232797+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-07",
+      "title": "Links 7/7/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Through the Eyes of Shop Cats; Sciencing With a Primate Brain: Reflections on the Nature of Scientific Thought; Scientists discover why exercise reverses muscle aging; UN warns likelihood of \u2018extreme weather events\u2019 as El Nino set to intensify; China warming faster than global average as extreme weather intensifies, report says\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-07.mp3",
+      "file_size": 24602572,
+      "duration": "00:51:15",
+      "pub_date": "2026-07-07T14:30:19.142390+00:00"
     }
   ]
 }
