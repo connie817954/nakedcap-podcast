@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-12",
-      "title": "Links 5/12/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible; How are countries responding to hantavirus?; French woman was told by doctors hantavirus symptoms were just anxiety; Canadian Muskoxen Hit by Double Punch of Novel Diseases and Climate Change; A \u2018triple whammy\u2019 of chaos has triggered a downward spiral in Antarctica, scientists discover\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-12.mp3",
-      "file_size": 39518284,
-      "duration": "01:22:19",
-      "pub_date": "2026-05-12T14:25:25.899051+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-13",
       "title": "Links 5/13/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Stunning fossil discovery challenges the origins of animal life; First Real-Time Brain-Controlled Hearing Device; Arts and Cultural Engagement \u2018Linked To Slower Pace of Biological Aging\u2019; WHO officials warn of more possible hantavirus cases in coming weeks; Woman Diagnosed With Hantavirus After Being on Cruise Ship Now on an Artificial Lung in \u2018Final Stage of Supportive Care,\u2019 Doctor Says\u2026",
@@ -269,6 +260,15 @@
       "file_size": 24602572,
       "duration": "00:51:15",
       "pub_date": "2026-07-07T14:30:19.142390+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-08",
+      "title": "Links 7/8/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: Early Americans\u2019 primary diet was mammoths, other large mammals; Humanity\u2019s Apex Predator Is on the Move. We\u2019re Not Ready.; Samsung chip division\u2019s single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices \u2014 Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit; After a Weekend of Heavy Rains, Chicago\u2019s Deep Tunnel Is Almost Full; Heat Dome Locks Over Western Europe: Extended Run for Excessive Heatwave establishes\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-08.mp3",
+      "file_size": 30833740,
+      "duration": "01:04:14",
+      "pub_date": "2026-07-08T14:02:42.314187+00:00"
     }
   ]
 }
