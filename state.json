@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-13",
-      "title": "Links 5/13/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Stunning fossil discovery challenges the origins of animal life; First Real-Time Brain-Controlled Hearing Device; Arts and Cultural Engagement \u2018Linked To Slower Pace of Biological Aging\u2019; WHO officials warn of more possible hantavirus cases in coming weeks; Woman Diagnosed With Hantavirus After Being on Cruise Ship Now on an Artificial Lung in \u2018Final Stage of Supportive Care,\u2019 Doctor Says\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-13.mp3",
-      "file_size": 27671884,
-      "duration": "00:57:38",
-      "pub_date": "2026-05-13T14:53:41.513418+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-14",
       "title": "Links 5/14/2026",
       "description": "Daily Links from Naked Capitalism. 8 articles: Physicists find evidence that the universe isn\u2019t perfectly uniform \u2014 potentially unraveling a 100-year-old model of cosmology; Glasgow Man Crashes Car Into Mural Resembling Tunnel Entrance; Record-breaking glacier mass loss in Central Asia in 2025; French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11; Xi Jinping says China and US should be partners, not rivals, as summit gets underway\u2026",
@@ -269,6 +260,15 @@
       "file_size": 30833740,
       "duration": "01:04:14",
       "pub_date": "2026-07-08T14:02:42.314187+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-09",
+      "title": "Links 7/9/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Australian officials ask fans to respect the privacy of Neil, a 1-ton seal who respects nothing; July 8, 2026; Armed conflict tied to higher measles burden worldwide; Measles outbreak confirmed at Arizona immigration detention center; Tokyo to Nagoya in 40 minutes? Japan\u2019s 500 kmph Maglev project gets green light\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-09.mp3",
+      "file_size": 32262028,
+      "duration": "01:07:12",
+      "pub_date": "2026-07-09T14:57:31.597133+00:00"
     }
   ]
 }
