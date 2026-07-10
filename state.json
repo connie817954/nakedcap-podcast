@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-14",
-      "title": "Links 5/14/2026",
-      "description": "Daily Links from Naked Capitalism. 8 articles: Physicists find evidence that the universe isn\u2019t perfectly uniform \u2014 potentially unraveling a 100-year-old model of cosmology; Glasgow Man Crashes Car Into Mural Resembling Tunnel Entrance; Record-breaking glacier mass loss in Central Asia in 2025; French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11; Xi Jinping says China and US should be partners, not rivals, as summit gets underway\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-14.mp3",
-      "file_size": 16795852,
-      "duration": "00:34:59",
-      "pub_date": "2026-05-14T14:07:51.361008+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-15",
       "title": "Links 5/15/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Buddhist sect welcomes humanoid robot Gabi with precept ceremony; \u2018Think twice before posing with hand signs\u2019: Experts warn of fingerprint theft; Why do people still take cruises? Convenience, value outweigh health risks, experts say; How the CDC\u2019s Hantavirus Response Became a PR Crisis; Hantavirus is a climate story\u2026",
@@ -269,6 +260,15 @@
       "file_size": 32262028,
       "duration": "01:07:12",
       "pub_date": "2026-07-09T14:57:31.597133+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-10",
+      "title": "Links 7/10/2026",
+      "description": "Daily Links from Naked Capitalism. 15 articles: Adolf Hitler baby photo in New Jersey middle school yearbook sparks investigation; Roadway to the Brain? Alzheimer\u2019s Linked to Notorious Tire Chemical; How to lie about radiation; July 9, 2026; June 2026 is Western Europe\u2019s warmest June on record\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-10.mp3",
+      "file_size": 39721996,
+      "duration": "01:22:45",
+      "pub_date": "2026-07-10T14:23:34.560799+00:00"
     }
   ]
 }
