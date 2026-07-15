@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-19",
-      "title": "Links 5/19/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed; Gas prices are rising. So is public transit ridership.; Wood burning is reintroducing lead pollution into the air, US scientists find; Gooey blue blobs are washing up on U.S. beaches\u2014here\u2019s why; Declare climate crisis a global public health emergency, experts tell WHO\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-19.mp3",
-      "file_size": 25268620,
-      "duration": "00:52:38",
-      "pub_date": "2026-05-19T15:00:25.932809+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-20",
       "title": "Links 5/20/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: Hidden earthquake faults beneath Seattle may be more dangerous than expected; American tests positive for Ebola; U.S. to screen travelers at airports; Hantavirus in Africa: why climate change, rats and weak surveillance are worrying scientists; A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way; Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak\u2026",
@@ -269,6 +260,15 @@
       "file_size": 16517068,
       "duration": "00:34:24",
       "pub_date": "2026-07-14T13:33:46.739937+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-15",
+      "title": "Links 7/15/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Bottlenose dolphins are relying on fishing trawlers in Adriatic Sea, study finds; A 37-year soil experiment revealed a hidden climate threat; July 14, 2026; July 14, 2026; World\u2019s water supplies heading for irreversible decline, warns UN\u2019s Guterres\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-15.mp3",
+      "file_size": 20903884,
+      "duration": "00:43:32",
+      "pub_date": "2026-07-15T13:35:12.451902+00:00"
     }
   ]
 }
