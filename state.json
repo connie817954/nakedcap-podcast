@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-20",
-      "title": "Links 5/20/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: Hidden earthquake faults beneath Seattle may be more dangerous than expected; American tests positive for Ebola; U.S. to screen travelers at airports; Hantavirus in Africa: why climate change, rats and weak surveillance are worrying scientists; A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way; Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-20.mp3",
-      "file_size": 24659212,
-      "duration": "00:51:22",
-      "pub_date": "2026-05-20T15:02:00.551571+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-21",
       "title": "Links 5/21/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: The Conscience of the City; Capitalism Is a Flammable System: An Interview with Alejandro Pedregal; SOS flare from shipwrecked mariner may have sparked 16,000-acre fire on Santa Rosa Island, USCG says; Video and satellite photos show Iran war oil spill on Persian Gulf island; Infection prevention and control guideline for Ebola and Marburg diseases\u2026",
@@ -269,6 +260,15 @@
       "file_size": 20903884,
       "duration": "00:43:32",
       "pub_date": "2026-07-15T13:35:12.451902+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-16",
+      "title": "Links 7/16/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Salad greens scrutinized as cyclosporiasis outbreak spreads; Cacti spines, snake fangs, snail love darts \u2013 oh my! How function drives the evolution of nature\u2019s puncture tools; The banana as we know it is in trouble; US heatwave shatters records as wildfires fuel toxic air across North America; July 15, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-16.mp3",
+      "file_size": 33675916,
+      "duration": "01:10:09",
+      "pub_date": "2026-07-16T13:49:39.557856+00:00"
     }
   ]
 }
