@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-21",
-      "title": "Links 5/21/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: The Conscience of the City; Capitalism Is a Flammable System: An Interview with Alejandro Pedregal; SOS flare from shipwrecked mariner may have sparked 16,000-acre fire on Santa Rosa Island, USCG says; Video and satellite photos show Iran war oil spill on Persian Gulf island; Infection prevention and control guideline for Ebola and Marburg diseases\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-21.mp3",
-      "file_size": 25846348,
-      "duration": "00:53:50",
-      "pub_date": "2026-05-21T15:05:25.671591+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-22",
       "title": "Links 5/22/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: James Bond fans launch fundraiser for statue of supervillain Blofeld in his Polish \u201chometown\u201d; Sea level rise is swallowing Mid-Atlantic farmland faster than expected, study finds; Hard Rain; Scenarios, schmenarios\u2026; THE HONEY COLLECTORS WHO RISK THEIR LIVES IN TIGER COUNTRY\u2026",
@@ -269,6 +260,15 @@
       "file_size": 33675916,
       "duration": "01:10:09",
       "pub_date": "2026-07-16T13:49:39.557856+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-17",
+      "title": "Links 7/17/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Medieval Courts Put Murderous Pigs on Trial and the Records Are Stranger Than Fiction; Artist Builds a Fully Stocked Bird-Sized Bar to Make Friends With the Local Crows; Air quality is the worst in these US cities amid Canada wildfires; Why the United States Keeps Choking on Canadian Smoke; July 16, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-17.mp3",
+      "file_size": 18983500,
+      "duration": "00:39:32",
+      "pub_date": "2026-07-17T13:26:56.393306+00:00"
     }
   ]
 }
