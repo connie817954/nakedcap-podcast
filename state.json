@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-22",
-      "title": "Links 5/22/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: James Bond fans launch fundraiser for statue of supervillain Blofeld in his Polish \u201chometown\u201d; Sea level rise is swallowing Mid-Atlantic farmland faster than expected, study finds; Hard Rain; Scenarios, schmenarios\u2026; THE HONEY COLLECTORS WHO RISK THEIR LIVES IN TIGER COUNTRY\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-22.mp3",
-      "file_size": 28890124,
-      "duration": "01:00:11",
-      "pub_date": "2026-05-22T14:36:36.059837+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-25",
       "title": "Links 5/25/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: The unexpected science hiding in Dante\u2019s \u2018Inferno\u2019; Scientists create miniature nuclear fireball to understand how radioactive dust is born; Study Finds Pro Chess Players Make Better Moves When They Decide Faster; I Went Looking for the Origins of Clothing and Nearly Got Hypothermia; Heat Dome Update: Europe Braces for Record-Breaking Late May Heatwave\u2026",
@@ -269,6 +260,15 @@
       "file_size": 18983500,
       "duration": "00:39:32",
       "pub_date": "2026-07-17T13:26:56.393306+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-20",
+      "title": "Links 7/20/2026",
+      "description": "Daily Links from Naked Capitalism. 9 articles: James Webb Space Telescope discovers how black holes feed themselves; Massive fire becomes Norway\u2019s largest in modern times after destroying more than 100 homes; Hundreds evacuated as wildfire scorches 13,000 hectares in Spain; July 19, 2026; July 18, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-20.mp3",
+      "file_size": 10709260,
+      "duration": "00:22:18",
+      "pub_date": "2026-07-20T14:03:54.316578+00:00"
     }
   ]
 }
