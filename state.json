@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-25",
-      "title": "Links 5/25/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: The unexpected science hiding in Dante\u2019s \u2018Inferno\u2019; Scientists create miniature nuclear fireball to understand how radioactive dust is born; Study Finds Pro Chess Players Make Better Moves When They Decide Faster; I Went Looking for the Origins of Clothing and Nearly Got Hypothermia; Heat Dome Update: Europe Braces for Record-Breaking Late May Heatwave\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-25.mp3",
-      "file_size": 33529420,
-      "duration": "01:09:51",
-      "pub_date": "2026-05-25T14:53:02.291969+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-26",
       "title": "Links 5/26/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: This prehistoric fish may explain how animals first walked on Earth; The \u2018cockroaches\u2019 India\u2019s elite created \u2014 and can\u2019t exterminate; Indonesia faces \u2018vicious\u2019 stagflation; Unrest in Somalia\u2019s southwest as federalists battle regional force; In Sudan\u2019s war economy, gold keeps flowing as miners risk mercury and collapse\u2026",
@@ -269,6 +260,15 @@
       "file_size": 10709260,
       "duration": "00:22:18",
       "pub_date": "2026-07-20T14:03:54.316578+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-21",
+      "title": "Links 7/21/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: The World\u2019s Highest-Living Mammal Is Rewriting the Limits of Life; The deep ocean is changing our climate far faster than we realised; Earth\u2019s waters are quietly running out of oxygen, scientists warn; Canada issues air quality warnings over US wildfire smoke after Trump tariff threat; Puerto Rico announces emergency water rationing as drought worsens\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-21.mp3",
+      "file_size": 27435340,
+      "duration": "00:57:09",
+      "pub_date": "2026-07-21T13:48:00.841273+00:00"
     }
   ]
 }
