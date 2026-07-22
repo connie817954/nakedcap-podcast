@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-26",
-      "title": "Links 5/26/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: This prehistoric fish may explain how animals first walked on Earth; The \u2018cockroaches\u2019 India\u2019s elite created \u2014 and can\u2019t exterminate; Indonesia faces \u2018vicious\u2019 stagflation; Unrest in Somalia\u2019s southwest as federalists battle regional force; In Sudan\u2019s war economy, gold keeps flowing as miners risk mercury and collapse\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-26.mp3",
-      "file_size": 22952524,
-      "duration": "00:47:48",
-      "pub_date": "2026-05-26T15:21:08.309829+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-27",
       "title": "Links 5/27/2026",
       "description": "Daily Links from Naked Capitalism. 7 articles: Don\u2019t Trash Your Old Vapes. NYC\u2019s Volunteer Recyclers Want Them; Reef fish communities are collapsing under climate stress; Climate change weakens the purification function of lakes; Deadly fungal storms are now sweeping the US \u2013 and spreading a disease few doctors recognise; America\u2019s Water Crisis Can No Longer Be Ignored\u2026",
@@ -269,6 +260,15 @@
       "file_size": 27435340,
       "duration": "00:57:09",
       "pub_date": "2026-07-21T13:48:00.841273+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-22",
+      "title": "Links 7/22/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: American Heart Association Reveals The Optimal Daily Cups of Coffee For Your Health; July 21, 2026; Cloudy skies have slowed global warming \u2013 but that may be changing; The earth has stopped being as shiny. Insurers are worried; Slowdown in Arctic ice melt ends after largest winter decline on record\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-22.mp3",
+      "file_size": 24363148,
+      "duration": "00:50:45",
+      "pub_date": "2026-07-22T13:55:02.965816+00:00"
     }
   ]
 }
