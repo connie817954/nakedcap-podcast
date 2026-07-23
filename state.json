@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-27",
-      "title": "Links 5/27/2026",
-      "description": "Daily Links from Naked Capitalism. 7 articles: Don\u2019t Trash Your Old Vapes. NYC\u2019s Volunteer Recyclers Want Them; Reef fish communities are collapsing under climate stress; Climate change weakens the purification function of lakes; Deadly fungal storms are now sweeping the US \u2013 and spreading a disease few doctors recognise; America\u2019s Water Crisis Can No Longer Be Ignored\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-27.mp3",
-      "file_size": 21369484,
-      "duration": "00:44:31",
-      "pub_date": "2026-05-27T15:39:49.314831+00:00"
-    },
-    {
       "guid": "nc-links-2026-05-28",
       "title": "Links 5/28/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Australian man accidentally walks a fashion show thinking it was beach stairs; American patriots have a plan to build giant statues of Lewis and Clark on the Missouri River like the Argonath from \u201cLord of the Rings\u201d; Hunt on for \u2018Ranksy\u2019 graffiti artist who sprayed \u2018I farted in yoga\u2019 on London wall; May 27, 2026; Why India\u2019s heatwaves feel more brutal than ever as warnings issued over \u2018killer\u2019 48C heat\u2026",
@@ -269,6 +260,15 @@
       "file_size": 24363148,
       "duration": "00:50:45",
       "pub_date": "2026-07-22T13:55:02.965816+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-23",
+      "title": "Links 7/23/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: The Largest Operating Steam Locomotive in the World Weighs 1.2 Million Pounds. Now, the Historic Train May Be Coming to Your Town; Measles cases in the U.S. hit a new 34-year high; Why the fastest-growing Ebola outbreak in history is becoming more challenging; JPMorgan, other US banks set to help finance Japan\u2019s $550 billion US investment plan, say sources; The Gulf\u2019s China Problem\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-23.mp3",
+      "file_size": 25658188,
+      "duration": "00:53:27",
+      "pub_date": "2026-07-23T13:57:03.817081+00:00"
     }
   ]
 }
