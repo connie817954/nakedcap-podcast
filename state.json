@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-05-28",
-      "title": "Links 5/28/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Australian man accidentally walks a fashion show thinking it was beach stairs; American patriots have a plan to build giant statues of Lewis and Clark on the Missouri River like the Argonath from \u201cLord of the Rings\u201d; Hunt on for \u2018Ranksy\u2019 graffiti artist who sprayed \u2018I farted in yoga\u2019 on London wall; May 27, 2026; Why India\u2019s heatwaves feel more brutal than ever as warnings issued over \u2018killer\u2019 48C heat\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-05-28.mp3",
-      "file_size": 22671628,
-      "duration": "00:47:13",
-      "pub_date": "2026-05-28T15:48:09.044714+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-12",
       "title": "Links 6/12/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: When Bigfoot Finds You; #science; #Cristina; June 10, 2026; Scientists Found Bacteria Thriving Inside Fog and Eating Air Pollution\u2026",
@@ -269,6 +260,15 @@
       "file_size": 25658188,
       "duration": "00:53:27",
       "pub_date": "2026-07-23T13:57:03.817081+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-24",
+      "title": "Links 7/24/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Long Presumed Dead, a West African Reef Is Found Thriving; Deadly Snail Venom Could Lead to Pain Relief Without Opioids, Study Shows; FDA investigating second, smaller cyclosporiasis outbreak; Climate crisis-driven heat \u2018sucking soils dry\u2019 as extreme drought hits Europe; Super El Ni\u00f1o Forecast Pushes Toward Record Strength as Winter 2026/2027 Signals Emerge\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-24.mp3",
+      "file_size": 31435468,
+      "duration": "01:05:29",
+      "pub_date": "2026-07-24T13:35:11.392531+00:00"
     }
   ]
 }
