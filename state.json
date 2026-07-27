@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-12",
-      "title": "Links 6/12/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: When Bigfoot Finds You; #science; #Cristina; June 10, 2026; Scientists Found Bacteria Thriving Inside Fog and Eating Air Pollution\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-12.mp3",
-      "file_size": 19435468,
-      "duration": "00:40:29",
-      "pub_date": "2026-06-12T14:55:37.013545+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-15",
       "title": "Links 6/15/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: Aliens Might Exist, But These 3 Reasons Explain Why They\u2019re Not Visiting Us; Earth\u2019s Underground Fungus Network Is So Gigantic That If You Stretched It Out, It Would Reach to Other Star Systems; June 14, 2026; Phytoplankton decline hints trouble for north Atlantic food webs; June 14, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 31435468,
       "duration": "01:05:29",
       "pub_date": "2026-07-24T13:35:11.392531+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-27",
+      "title": "Links 7/27/2026",
+      "description": "Daily Links from Naked Capitalism. 16 articles: Insect \u2018submariners\u2019 don\u2019t implode at depth, leaving oceanic mystery unsolved; \u2018I can\u2019t work in the farce of climate change cruise tourism anymore\u2019: why Antarctic guides quit their dream jobs; Power Grids Reach Tipping Point as 100F Weather, US Data Center Boom Stress Aging Networks; July 26, 2026; July 27, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-27.mp3",
+      "file_size": 35088268,
+      "duration": "01:13:05",
+      "pub_date": "2026-07-27T14:33:16.813553+00:00"
     }
   ]
 }
