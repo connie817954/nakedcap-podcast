@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-15",
-      "title": "Links 6/15/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: Aliens Might Exist, But These 3 Reasons Explain Why They\u2019re Not Visiting Us; Earth\u2019s Underground Fungus Network Is So Gigantic That If You Stretched It Out, It Would Reach to Other Star Systems; June 14, 2026; Phytoplankton decline hints trouble for north Atlantic food webs; June 14, 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-15.mp3",
-      "file_size": 17550220,
-      "duration": "00:36:33",
-      "pub_date": "2026-06-15T17:14:37.826199+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-16",
       "title": "Links 6/16/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Humans nearly went extinct 930,000 years ago, researchers find; What COVID is teaching doctors about the relationship between viruses and cancer; Ebola: Largest ever outbreak of rare strain \u2018likely even greater\u2019 \u2013 and the \u2018first line of defence\u2019 has collapsed; June 11, 2026; NASA spots giant ocean swell that could signal El Ni\u00f1o\u2019s return\u2026",
@@ -269,6 +260,15 @@
       "file_size": 35088268,
       "duration": "01:13:05",
       "pub_date": "2026-07-27T14:33:16.813553+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-28",
+      "title": "Links 7/28/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: Mathematicians Reveal Why Humans Keep Becoming Cannibals; The Secret Lives of Insects; July 23, 2026; The Science of Using Drugs and Not Dying; Where You Carry Your Body Fat Is Directly Linked to Brain Aging in First-of-Its-Kind Study\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-28.mp3",
+      "file_size": 21488524,
+      "duration": "00:44:45",
+      "pub_date": "2026-07-28T14:09:00.930648+00:00"
     }
   ]
 }
