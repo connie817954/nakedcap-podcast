@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-16",
-      "title": "Links 6/16/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Humans nearly went extinct 930,000 years ago, researchers find; What COVID is teaching doctors about the relationship between viruses and cancer; Ebola: Largest ever outbreak of rare strain \u2018likely even greater\u2019 \u2013 and the \u2018first line of defence\u2019 has collapsed; June 11, 2026; NASA spots giant ocean swell that could signal El Ni\u00f1o\u2019s return\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-16.mp3",
-      "file_size": 36222796,
-      "duration": "01:15:27",
-      "pub_date": "2026-06-16T16:51:22.693978+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-18",
       "title": "Links 6/18/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Ohio Police Fire Robocop for Helping Make Zero Arrests and Failing to Issue a Single Ticket; Ad listing for $7m Tokyo apartment with \u2018invisible man\u2019 goes viral; \u2018Most famous tree in the world\u2019: Sherwood Forest\u2019s 1,000-year-old Major oak dies; June 17, 2026; \u2018Sponge Cities\u2019 Are Catching On. But Can They Handle Supercharged Storms?\u2026",
@@ -269,6 +260,15 @@
       "file_size": 21488524,
       "duration": "00:44:45",
       "pub_date": "2026-07-28T14:09:00.930648+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-29",
+      "title": "Links 7/29/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: The rise of \u2018safety fatigue\u2019 among parents; Did medieval people love their children?; Origin of Human Eyes Traced to 560-Million-Year-Old One-Eyed \u2018Cyclops\u2019; Europe is burning: How bad could this wildfire crisis get?; Inside The Lab Growing Mutant Bacteria To Terraform Earth\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-29.mp3",
+      "file_size": 33744844,
+      "duration": "01:10:18",
+      "pub_date": "2026-07-29T14:10:41.344674+00:00"
     }
   ]
 }
