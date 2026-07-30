@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-18",
-      "title": "Links 6/18/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Ohio Police Fire Robocop for Helping Make Zero Arrests and Failing to Issue a Single Ticket; Ad listing for $7m Tokyo apartment with \u2018invisible man\u2019 goes viral; \u2018Most famous tree in the world\u2019: Sherwood Forest\u2019s 1,000-year-old Major oak dies; June 17, 2026; \u2018Sponge Cities\u2019 Are Catching On. But Can They Handle Supercharged Storms?\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-18.mp3",
-      "file_size": 30488716,
-      "duration": "01:03:31",
-      "pub_date": "2026-06-18T15:06:42.832854+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-19",
       "title": "Links 6/19/2026",
       "description": "Daily Links from Naked Capitalism. 9 articles: Cervical cancer deaths among young women in England fall to zero following HPV vaccination; #flooding; #Arthur; June 18, 2026; India faces twin threat of extreme heat and a slow moving monsoon\u2026",
@@ -269,6 +260,15 @@
       "file_size": 33744844,
       "duration": "01:10:18",
       "pub_date": "2026-07-29T14:10:41.344674+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-30",
+      "title": "Links 7/30/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris; The EU might weaken its landmark climate law \u2014 the \u2018most impactful\u2019 in the world; It\u2019s official: Data centers are slowing America\u2019s shift away from coal; NOAA ditches weather-predicting supercomputers for Google Cloud; Hot nights are costing you up to 56 hours of sleep per year, study finds\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-30.mp3",
+      "file_size": 28204492,
+      "duration": "00:58:45",
+      "pub_date": "2026-07-30T13:58:33.640812+00:00"
     }
   ]
 }
