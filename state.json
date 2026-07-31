@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-19",
-      "title": "Links 6/19/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: Cervical cancer deaths among young women in England fall to zero following HPV vaccination; #flooding; #Arthur; June 18, 2026; India faces twin threat of extreme heat and a slow moving monsoon\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-19.mp3",
-      "file_size": 20333836,
-      "duration": "00:42:21",
-      "pub_date": "2026-06-19T15:03:18.185664+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-22",
       "title": "Links 6/22/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Acoustic mapping app uses thousands of networked old Android phones to hunt Shahed drones \u2014 crowd-sourced microphone network spots small, low-RCS military targets; European countries close schools, cancel trains as heatwave set to intensify; June 22, 2026; Utah wildfire forces evacuation of small town as extreme heat roasts US west; Comprehensive national climate damage assessments framework applied to the UK\u2026",
@@ -269,6 +260,15 @@
       "file_size": 28204492,
       "duration": "00:58:45",
       "pub_date": "2026-07-30T13:58:33.640812+00:00"
+    },
+    {
+      "guid": "nc-links-2026-07-31",
+      "title": "Links 7/31/2026",
+      "description": "Daily Links from Naked Capitalism. 8 articles: This 4,000-year-old city defied the rules of history; Sharp Drop! Is China\u2019s Lithography Machine Scaring Wall Street?; The U.S. Just Took A Big Step to Break China\u2019s Magnet Dominance; Japan carries out yen-buying intervention as US executes rate check; Climate-related crop losses top R1bn as extreme weather pressures South Africa\u2019s farmers\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-31.mp3",
+      "file_size": 21296140,
+      "duration": "00:44:21",
+      "pub_date": "2026-07-31T14:03:18.453501+00:00"
     }
   ]
 }
