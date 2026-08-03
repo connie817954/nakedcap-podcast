@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-22",
-      "title": "Links 6/22/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Acoustic mapping app uses thousands of networked old Android phones to hunt Shahed drones \u2014 crowd-sourced microphone network spots small, low-RCS military targets; European countries close schools, cancel trains as heatwave set to intensify; June 22, 2026; Utah wildfire forces evacuation of small town as extreme heat roasts US west; Comprehensive national climate damage assessments framework applied to the UK\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-22.mp3",
-      "file_size": 32243212,
-      "duration": "01:07:10",
-      "pub_date": "2026-06-22T16:57:33.237748+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-23",
       "title": "Links 6/23/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Overfed Orange Cat Who Looks Like a Pumpkin Finds a Loving Home With SPCA Cincinnati\u2019s CEO; June 19, 2026; @RamyInocencio; June 22, 2026; #Ebola\u2026",
@@ -269,6 +260,15 @@
       "file_size": 21296140,
       "duration": "00:44:21",
       "pub_date": "2026-07-31T14:03:18.453501+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-03",
+      "title": "Links 8/3/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: Protecting earth from extraterrestrial contamination: The case for a lunar biocontainment facility; A town haunted by the smell of rotting fish for 20 years is getting some relief; The Summer When Peace Died; Spokane fires destroy hundreds of structures; 2 killed when firefighting helicopters collide near Athens as Europe\u2019s wildfire emergency rages\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-03.mp3",
+      "file_size": 30515788,
+      "duration": "01:03:34",
+      "pub_date": "2026-08-03T14:41:06.455148+00:00"
     }
   ]
 }
