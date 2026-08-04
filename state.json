@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-23",
-      "title": "Links 6/23/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Overfed Orange Cat Who Looks Like a Pumpkin Finds a Loving Home With SPCA Cincinnati\u2019s CEO; June 19, 2026; @RamyInocencio; June 22, 2026; #Ebola\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-23.mp3",
-      "file_size": 19098508,
-      "duration": "00:39:47",
-      "pub_date": "2026-06-23T14:46:52.194087+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-24",
       "title": "Links 6/24/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: New recommendation: Allowed to be buried with pet\u2019s ashes; The tea in your kombucha changes more than just the taste; Three everyday oils are driving a global biodiversity crisis; Warning: Arctic Permafrost Could Become a Major Carbon Source Earlier Than Expected; June 22, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 30515788,
       "duration": "01:03:34",
       "pub_date": "2026-08-03T14:41:06.455148+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-04",
+      "title": "Links 8/4/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: Fish Bad, Sugar Good\u2026 And Other Medieval Ideas About Food; Giant waves are sweeping Mars\u2019 atmosphere into space; Why are so many dead bumblebees appearing on sidewalks?; Invasive species are forcing people from their homes, scientists warn; Climate Change Is Moving Mountains\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-04.mp3",
+      "file_size": 36245836,
+      "duration": "01:15:30",
+      "pub_date": "2026-08-04T14:11:47.867681+00:00"
     }
   ]
 }
