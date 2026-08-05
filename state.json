@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-24",
-      "title": "Links 6/24/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: New recommendation: Allowed to be buried with pet\u2019s ashes; The tea in your kombucha changes more than just the taste; Three everyday oils are driving a global biodiversity crisis; Warning: Arctic Permafrost Could Become a Major Carbon Source Earlier Than Expected; June 22, 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-24.mp3",
-      "file_size": 19405132,
-      "duration": "00:40:25",
-      "pub_date": "2026-06-24T14:29:12.592963+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-25",
       "title": "Links 6/25/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Man crowned world\u2019s loudest person makes as much noise as a jet taking off; Nasa rover detects potential signatures of ancient microbial life on Mars; Mushroom Behind \u2018Tiny Human\u2019 Visions Lacks Genes For Known Psychedelics; June 24, 2026; June 24, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 36245836,
       "duration": "01:15:30",
       "pub_date": "2026-08-04T14:11:47.867681+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-05",
+      "title": "Links 8/5/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: Life Inside Icelandic Turf Houses; DNA on the Shroud of Turin reveals centuries of hidden history; Ebola has killed 1,700 in eastern Congo as the fastest-growing outbreak surges; It\u2019s 90 degrees in the Arctic right now; \u2018Stop all outdoor activities\u2019: South Korea records its highest ever temperature\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-05.mp3",
+      "file_size": 19201228,
+      "duration": "00:40:00",
+      "pub_date": "2026-08-05T14:07:12.525232+00:00"
     }
   ]
 }
