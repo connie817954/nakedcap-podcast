@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-25",
-      "title": "Links 6/25/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Man crowned world\u2019s loudest person makes as much noise as a jet taking off; Nasa rover detects potential signatures of ancient microbial life on Mars; Mushroom Behind \u2018Tiny Human\u2019 Visions Lacks Genes For Known Psychedelics; June 24, 2026; June 24, 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-25.mp3",
-      "file_size": 24276940,
-      "duration": "00:50:34",
-      "pub_date": "2026-06-25T14:29:58.811920+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-26",
       "title": "Links 6/26/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Why the West stopped making land; Does Living Abroad Actually Change Who You Are? Study Offers Nuanced Answer; Super El Ni\u00f1o Is Now Breaking Into the Atmosphere as July Forecasts Show a Pattern Shift for the U.S. and Canada; June 25, 2026; Europe\u2019s extreme heat is shutting down power plants\u2026",
@@ -269,6 +260,15 @@
       "file_size": 19201228,
       "duration": "00:40:00",
       "pub_date": "2026-08-05T14:07:12.525232+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-06",
+      "title": "Links 8/6/2026",
+      "description": "Daily Links from Naked Capitalism. 16 articles: Rome vs. Japan: Two Civilizations, Two Philosophies of Architectural Permanence; She was set to get married. The night before, she used a tampon to set fire to the Utah church, police say.; SpaceX Achieves Its First Moon Landing by Accidentally Crashing Into It at 5,400 Miles Per Hour, Causing Huge Explosion and 60-Foot Crater; As Spokane Burns, a Record Northwestern Fire Season Shows No Signs of Slowing; Europe\u2019s Heatwave Is Hitting Refineries And Power Supplies\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-06.mp3",
+      "file_size": 36075532,
+      "duration": "01:15:09",
+      "pub_date": "2026-08-06T14:07:41.126071+00:00"
     }
   ]
 }
