@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-06-26",
-      "title": "Links 6/26/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: Why the West stopped making land; Does Living Abroad Actually Change Who You Are? Study Offers Nuanced Answer; Super El Ni\u00f1o Is Now Breaking Into the Atmosphere as July Forecasts Show a Pattern Shift for the U.S. and Canada; June 25, 2026; Europe\u2019s extreme heat is shutting down power plants\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-06-26.mp3",
-      "file_size": 33810892,
-      "duration": "01:10:26",
-      "pub_date": "2026-06-26T14:23:38.439022+00:00"
-    },
-    {
       "guid": "nc-links-2026-06-29",
       "title": "Links 6/29/2026",
       "description": "Daily Links from Naked Capitalism. 15 articles: Woman Surprised When Flock Surveillance Tower Appears in Her Yard Without Warning; The Witch Swoops Back Into the Spotlight; The Year 536 AD Was So Bad It May Have Been the Worst Time in Human History to Be Alive; Flash flooding kills 4 in Kentucky, 1 in Tennessee, prompts numerous water rescues; June 29, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 36075532,
       "duration": "01:15:09",
       "pub_date": "2026-08-06T14:07:41.126071+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-07",
+      "title": "Links 8/7/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: Winner of Florida python hunting contest nabs 96 snakes: \u2018I was on a mission\u2019; BMW Is Showing Commercials On Their Car\u2019s Dash Screens And They Want You To Think It\u2019s A Treat; Weathering population decline with Smart Decline; A New Ocean Anomaly Joins Super El Ni\u00f1o, Reshaping the Winter 2026/2027 Forecast; Extreme heat breaks temperature records in central and eastern Europe\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-07.mp3",
+      "file_size": 23982028,
+      "duration": "00:49:57",
+      "pub_date": "2026-08-07T13:13:54.893421+00:00"
     }
   ]
 }
