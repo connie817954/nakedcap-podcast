@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-01",
-      "title": "Links 7/1/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Thoughtful Man Places Handmade Ramp in Dumpster to Help Stranded Animals Escape; A massive asteroid slammed into the North Sea and triggered a 330-foot tsunami; The Wrong Man: The Bestselling Author, the Exoneration and the Rape Crisis the Police Ignored; IBM Says It Can Fit Nearly 100 Billion Transistors On a Chip; Film: How The Last Stage (1948) helps us understand the Nazi holocaust\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-01.mp3",
-      "file_size": 22015948,
-      "duration": "00:45:51",
-      "pub_date": "2026-07-01T14:32:37.743490+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-02",
       "title": "Links 7/2/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: 2 people arrested after hanging a banner about \u2018the power of love\u2019 on Empire State Building antenna; Copernicus Marine and Copernicus Climate Change: Daily global sea surface temperatures break records for the time of year; As Heat Wave Spreads Across the US, Data Centers Strain Electrical Grids; Death toll exceeds 20,000 across Europe in June 2026 heat wave; Banks are financing the fossil fuel industry\u2019s next growth strategy\u2026",
@@ -269,6 +260,15 @@
       "file_size": 29487628,
       "duration": "01:01:25",
       "pub_date": "2026-08-11T13:04:03.499637+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-12",
+      "title": "Links 8/12/2026",
+      "description": "Daily Links from Naked Capitalism. 14 articles: Swarming jellyfish overrun French nuclear plant on same date two years in a row; 3 dead, more than 1 million without power as severe storms strike Midwest; Beijing shuts tourist sites, suspends bus services as heavy rain continues; Alaska\u2019s $55B LNG Mega-Project In Talks With More Buyers Ahead Of FID; France swelters in new heatwave as water restrictions tighten\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-12.mp3",
+      "file_size": 28619212,
+      "duration": "00:59:37",
+      "pub_date": "2026-08-12T13:08:53.948608+00:00"
     }
   ]
 }
