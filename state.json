@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-02",
-      "title": "Links 7/2/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: 2 people arrested after hanging a banner about \u2018the power of love\u2019 on Empire State Building antenna; Copernicus Marine and Copernicus Climate Change: Daily global sea surface temperatures break records for the time of year; As Heat Wave Spreads Across the US, Data Centers Strain Electrical Grids; Death toll exceeds 20,000 across Europe in June 2026 heat wave; Banks are financing the fossil fuel industry\u2019s next growth strategy\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-02.mp3",
-      "file_size": 23895628,
-      "duration": "00:49:46",
-      "pub_date": "2026-07-02T13:56:04.649112+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-03",
       "title": "Links 7/3/2026",
       "description": "Daily Links from Naked Capitalism. 14 articles: Artificial cell manages a few rounds of cell division; NYC hotel evacuated after bear spray released inside, NYPD says; Mystery leak from semi-truck in Ohio turns out to be Franks RedHot; July 3, 2026; Canadian Power Line Meant to Shore Up NYC During Heat Waves Went Down For a Day\u2026",
@@ -269,6 +260,15 @@
       "file_size": 28619212,
       "duration": "00:59:37",
       "pub_date": "2026-08-12T13:08:53.948608+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-13",
+      "title": "Links 8/13/2026",
+      "description": "Daily Links from Naked Capitalism. 8 articles: A U.S. Strategy to Prevent the Creation of Mirror Life; Amid Drought, Hundreds of French Rivers Are Drying Up; #Flood; #Indiana; #Indianapolis\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-13.mp3",
+      "file_size": 8708620,
+      "duration": "00:18:08",
+      "pub_date": "2026-08-13T13:09:02.819355+00:00"
     }
   ]
 }
