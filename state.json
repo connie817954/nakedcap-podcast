@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-07",
-      "title": "Links 7/7/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Through the Eyes of Shop Cats; Sciencing With a Primate Brain: Reflections on the Nature of Scientific Thought; Scientists discover why exercise reverses muscle aging; UN warns likelihood of \u2018extreme weather events\u2019 as El Nino set to intensify; China warming faster than global average as extreme weather intensifies, report says\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-07.mp3",
-      "file_size": 24602572,
-      "duration": "00:51:15",
-      "pub_date": "2026-07-07T14:30:19.142390+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-08",
       "title": "Links 7/8/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: Early Americans\u2019 primary diet was mammoths, other large mammals; Humanity\u2019s Apex Predator Is on the Move. We\u2019re Not Ready.; Samsung chip division\u2019s single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices \u2014 Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit; After a Weekend of Heavy Rains, Chicago\u2019s Deep Tunnel Is Almost Full; Heat Dome Locks Over Western Europe: Extended Run for Excessive Heatwave establishes\u2026",
@@ -269,6 +260,15 @@
       "file_size": 36345292,
       "duration": "01:15:43",
       "pub_date": "2026-08-17T12:45:32.209381+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-18",
+      "title": "Links 8/18/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: A Massive 10-Foot Ball of Hair Rolls Through the Streets of New York City Like a Tangled Tumbleweed; Mount Etna erupts a day after US tourist killed by lightning; Tornado Alley\u2019s on the Move and Creating New Risk Concerns, Modeler Says; Make it rain: Indonesia chases clouds to stem El Nino fires; The Next Energy Crisis Could Be a Water Crisis\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-18.mp3",
+      "file_size": 19654156,
+      "duration": "00:40:56",
+      "pub_date": "2026-08-18T12:50:47.772501+00:00"
     }
   ]
 }
