@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-08",
-      "title": "Links 7/8/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: Early Americans\u2019 primary diet was mammoths, other large mammals; Humanity\u2019s Apex Predator Is on the Move. We\u2019re Not Ready.; Samsung chip division\u2019s single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices \u2014 Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit; After a Weekend of Heavy Rains, Chicago\u2019s Deep Tunnel Is Almost Full; Heat Dome Locks Over Western Europe: Extended Run for Excessive Heatwave establishes\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-08.mp3",
-      "file_size": 30833740,
-      "duration": "01:04:14",
-      "pub_date": "2026-07-08T14:02:42.314187+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-09",
       "title": "Links 7/9/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Australian officials ask fans to respect the privacy of Neil, a 1-ton seal who respects nothing; July 8, 2026; Armed conflict tied to higher measles burden worldwide; Measles outbreak confirmed at Arizona immigration detention center; Tokyo to Nagoya in 40 minutes? Japan\u2019s 500 kmph Maglev project gets green light\u2026",
@@ -269,6 +260,15 @@
       "file_size": 19654156,
       "duration": "00:40:56",
       "pub_date": "2026-08-18T12:50:47.772501+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-19",
+      "title": "Links 8/19/2026",
+      "description": "Daily Links from Naked Capitalism. 15 articles: The smorgasbord in the age of Ozempic; Extreme heat more dangerous for people 60 and over than previously thought; Memories Mysteriously Survive After Brain Shutdown, And Scientists Don\u2019t Know Why; Scientists discover a natural Arctic cloud factory missing from climate models; August 15, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-19.mp3",
+      "file_size": 42271948,
+      "duration": "01:28:03",
+      "pub_date": "2026-08-19T12:58:53.359549+00:00"
     }
   ]
 }
