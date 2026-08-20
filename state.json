@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-09",
-      "title": "Links 7/9/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Australian officials ask fans to respect the privacy of Neil, a 1-ton seal who respects nothing; July 8, 2026; Armed conflict tied to higher measles burden worldwide; Measles outbreak confirmed at Arizona immigration detention center; Tokyo to Nagoya in 40 minutes? Japan\u2019s 500 kmph Maglev project gets green light\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-09.mp3",
-      "file_size": 32262028,
-      "duration": "01:07:12",
-      "pub_date": "2026-07-09T14:57:31.597133+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-10",
       "title": "Links 7/10/2026",
       "description": "Daily Links from Naked Capitalism. 15 articles: Adolf Hitler baby photo in New Jersey middle school yearbook sparks investigation; Roadway to the Brain? Alzheimer\u2019s Linked to Notorious Tire Chemical; How to lie about radiation; July 9, 2026; June 2026 is Western Europe\u2019s warmest June on record\u2026",
@@ -269,6 +260,15 @@
       "file_size": 42271948,
       "duration": "01:28:03",
       "pub_date": "2026-08-19T12:58:53.359549+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-20",
+      "title": "Links 8/20/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Dolphins recorded using sea shells to catch fish for first time; August 20, 2026; European farmers face \u2018unprecedented crisis\u2019 after successive heatwaves; How the World\u2019s Largest Electric Company Fell Quiet on Renewable Energy; Mobile gold miners in eastern Congo complicate health workers\u2019 efforts to contain Ebola\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-20.mp3",
+      "file_size": 26671948,
+      "duration": "00:55:33",
+      "pub_date": "2026-08-20T12:47:59.602984+00:00"
     }
   ]
 }
