@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-10",
-      "title": "Links 7/10/2026",
-      "description": "Daily Links from Naked Capitalism. 15 articles: Adolf Hitler baby photo in New Jersey middle school yearbook sparks investigation; Roadway to the Brain? Alzheimer\u2019s Linked to Notorious Tire Chemical; How to lie about radiation; July 9, 2026; June 2026 is Western Europe\u2019s warmest June on record\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-10.mp3",
-      "file_size": 39721996,
-      "duration": "01:22:45",
-      "pub_date": "2026-07-10T14:23:34.560799+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-13",
       "title": "Links 7/13/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: World\u2019s Largest Paper Airplane With a 66-Foot Wingspan Just Flew Into the Record Books; The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?; #UTwx; #MTwx; #WYwx\u2026",
@@ -269,6 +260,15 @@
       "file_size": 26671948,
       "duration": "00:55:33",
       "pub_date": "2026-08-20T12:47:59.602984+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-21",
+      "title": "Links 8/21/2026",
+      "description": "Daily Links from Naked Capitalism. 10 articles: Fall 2026 Forecast Update: Super El Ni\u00f1o Builds a Split-Flow Pattern Ahead of Winter 2026/2027; Pressure Increases for Texas to Allow Treated Drilling Waste Into Rivers and Rangeland; Are wasps losing their rhythm?; China shifting massive AI data center complexes to rural provinces to tap surplus energy \u2014 \u2018Eastern Data, Western Computing\u2019 strategy has Chinese tech giants Huawei and Tencent building AI infrastructure Guizhou; August 20, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-21.mp3",
+      "file_size": 22563340,
+      "duration": "00:47:00",
+      "pub_date": "2026-08-21T13:00:57.305286+00:00"
     }
   ]
 }
