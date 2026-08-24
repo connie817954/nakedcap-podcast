@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-13",
-      "title": "Links 7/13/2026",
-      "description": "Daily Links from Naked Capitalism. 11 articles: World\u2019s Largest Paper Airplane With a 66-Foot Wingspan Just Flew Into the Record Books; The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?; #UTwx; #MTwx; #WYwx\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-13.mp3",
-      "file_size": 17979916,
-      "duration": "00:37:27",
-      "pub_date": "2026-07-13T14:32:21.486074+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-14",
       "title": "Links 7/14/2026",
       "description": "Daily Links from Naked Capitalism. 9 articles: July 12, 2026; July 13, 2026; Andhra Pradesh On Alert After 2 COVID-19 Deaths, 8 Active Cases; \u2018I froze my pyjamas\u2019: What Europeans can do to cool down without air con \u2013 and what actually works; River Pollution May Be Confusing Fish Into Mating With the Wrong Species\u2026",
@@ -269,6 +260,15 @@
       "file_size": 22563340,
       "duration": "00:47:00",
       "pub_date": "2026-08-21T13:00:57.305286+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-24",
+      "title": "Links 8/24/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: August 22, 2026; August 24, 2026; Bomb Fishing Is Reducing Coral Reefs to \u2018Rubble\u2019; August 23, 2026; Cement\u2019s Stubborn Emissions\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-24.mp3",
+      "file_size": 26553676,
+      "duration": "00:55:19",
+      "pub_date": "2026-08-24T12:45:19.548919+00:00"
     }
   ]
 }
