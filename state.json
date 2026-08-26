@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-15",
-      "title": "Links 7/15/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Bottlenose dolphins are relying on fishing trawlers in Adriatic Sea, study finds; A 37-year soil experiment revealed a hidden climate threat; July 14, 2026; July 14, 2026; World\u2019s water supplies heading for irreversible decline, warns UN\u2019s Guterres\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-15.mp3",
-      "file_size": 20903884,
-      "duration": "00:43:32",
-      "pub_date": "2026-07-15T13:35:12.451902+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-16",
       "title": "Links 7/16/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Salad greens scrutinized as cyclosporiasis outbreak spreads; Cacti spines, snake fangs, snail love darts \u2013 oh my! How function drives the evolution of nature\u2019s puncture tools; The banana as we know it is in trouble; US heatwave shatters records as wildfires fuel toxic air across North America; July 15, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 34473100,
       "duration": "01:11:49",
       "pub_date": "2026-08-25T12:46:05.349918+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-26",
+      "title": "Links 8/26/2026 Plus Iran War Note",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Iran details temporary Hormuz arrangement with Oman; vows reopening tied to fulfillment of demands; From the body of the story; Dolly Parton, Queen of Country Music, Dies at 80; Forces deep inside Earth helped Antarctica freeze before the Arctic; FDA Approves First Alzheimer\u2019s Blood Test For Americans As Young As 40\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-26.mp3",
+      "file_size": 29844172,
+      "duration": "01:02:10",
+      "pub_date": "2026-08-26T12:48:41.990036+00:00"
     }
   ]
 }
