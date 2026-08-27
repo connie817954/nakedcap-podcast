@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-16",
-      "title": "Links 7/16/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Salad greens scrutinized as cyclosporiasis outbreak spreads; Cacti spines, snake fangs, snail love darts \u2013 oh my! How function drives the evolution of nature\u2019s puncture tools; The banana as we know it is in trouble; US heatwave shatters records as wildfires fuel toxic air across North America; July 15, 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-16.mp3",
-      "file_size": 33675916,
-      "duration": "01:10:09",
-      "pub_date": "2026-07-16T13:49:39.557856+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-17",
       "title": "Links 7/17/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Medieval Courts Put Murderous Pigs on Trial and the Records Are Stranger Than Fiction; Artist Builds a Fully Stocked Bird-Sized Bar to Make Friends With the Local Crows; Air quality is the worst in these US cities amid Canada wildfires; Why the United States Keeps Choking on Canadian Smoke; July 16, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 29844172,
       "duration": "01:02:10",
       "pub_date": "2026-08-26T12:48:41.990036+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-27",
+      "title": "Links 8/27/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Ancient dental calculus reveals diverse diets of commoners in premodern Osaka, Japan, the \u2018Kitchen of the Realm\u2019; Nepal\u2019s Deadly Flood Started With a 2,000-Foot Chunk of Glacier: Scientists Are Still Piecing Together Why; August 26, 2026; Thousands of Gary residents without power for 2 weeks are breathing sigh of relief; Conservation Bio: Emerging threat of avian influenza to the world\u2019s vultures\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-27.mp3",
+      "file_size": 28716364,
+      "duration": "00:59:49",
+      "pub_date": "2026-08-27T21:47:15.022122+00:00"
     }
   ]
 }
