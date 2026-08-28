@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-17",
-      "title": "Links 7/17/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Medieval Courts Put Murderous Pigs on Trial and the Records Are Stranger Than Fiction; Artist Builds a Fully Stocked Bird-Sized Bar to Make Friends With the Local Crows; Air quality is the worst in these US cities amid Canada wildfires; Why the United States Keeps Choking on Canadian Smoke; July 16, 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-17.mp3",
-      "file_size": 18983500,
-      "duration": "00:39:32",
-      "pub_date": "2026-07-17T13:26:56.393306+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-20",
       "title": "Links 7/20/2026",
       "description": "Daily Links from Naked Capitalism. 9 articles: James Webb Space Telescope discovers how black holes feed themselves; Massive fire becomes Norway\u2019s largest in modern times after destroying more than 100 homes; Hundreds evacuated as wildfire scorches 13,000 hectares in Spain; July 19, 2026; July 18, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 28716364,
       "duration": "00:59:49",
       "pub_date": "2026-08-27T21:47:15.022122+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-28",
+      "title": "Links 8/28/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: New study reveals how space rocks become meteorites; Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters; \u2018There\u2019s a bat in my mouth\u2019: Virginia doctor\u2019s bat nightmare goes viral; One country seems immune to global warming. And nobody knows why; August 27, 2026\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-28.mp3",
+      "file_size": 30870604,
+      "duration": "01:04:18",
+      "pub_date": "2026-08-28T21:48:16.172145+00:00"
     }
   ]
 }
