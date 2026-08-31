@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-20",
-      "title": "Links 7/20/2026",
-      "description": "Daily Links from Naked Capitalism. 9 articles: James Webb Space Telescope discovers how black holes feed themselves; Massive fire becomes Norway\u2019s largest in modern times after destroying more than 100 homes; Hundreds evacuated as wildfire scorches 13,000 hectares in Spain; July 19, 2026; July 18, 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-20.mp3",
-      "file_size": 10709260,
-      "duration": "00:22:18",
-      "pub_date": "2026-07-20T14:03:54.316578+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-21",
       "title": "Links 7/21/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: The World\u2019s Highest-Living Mammal Is Rewriting the Limits of Life; The deep ocean is changing our climate far faster than we realised; Earth\u2019s waters are quietly running out of oxygen, scientists warn; Canada issues air quality warnings over US wildfire smoke after Trump tariff threat; Puerto Rico announces emergency water rationing as drought worsens\u2026",
@@ -269,6 +260,15 @@
       "file_size": 30870604,
       "duration": "01:04:18",
       "pub_date": "2026-08-28T21:48:16.172145+00:00"
+    },
+    {
+      "guid": "nc-links-2026-08-31",
+      "title": "Links 8/31/2026",
+      "description": "Daily Links from Naked Capitalism. 16 articles: Could this cookie made from waste and plastic help food crisis?; \u2018Mad honey\u2019 that can stop your heart is now being sold online worldwide; Meat of the Matter; Gen Z men are skipping showers before dates: Here\u2019s why; Over 20 feared missing after massive flash flood in US\u2019 Grand Canyon\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-08-31.mp3",
+      "file_size": 16803724,
+      "duration": "00:35:00",
+      "pub_date": "2026-08-31T18:46:30.586986+00:00"
     }
   ]
 }
