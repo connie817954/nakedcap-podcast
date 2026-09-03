@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-21",
-      "title": "Links 7/21/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: The World\u2019s Highest-Living Mammal Is Rewriting the Limits of Life; The deep ocean is changing our climate far faster than we realised; Earth\u2019s waters are quietly running out of oxygen, scientists warn; Canada issues air quality warnings over US wildfire smoke after Trump tariff threat; Puerto Rico announces emergency water rationing as drought worsens\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-21.mp3",
-      "file_size": 27435340,
-      "duration": "00:57:09",
-      "pub_date": "2026-07-21T13:48:00.841273+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-22",
       "title": "Links 7/22/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: American Heart Association Reveals The Optimal Daily Cups of Coffee For Your Health; July 21, 2026; Cloudy skies have slowed global warming \u2013 but that may be changing; The earth has stopped being as shiny. Insurers are worried; Slowdown in Arctic ice melt ends after largest winter decline on record\u2026",
@@ -269,6 +260,15 @@
       "file_size": 16803724,
       "duration": "00:35:00",
       "pub_date": "2026-08-31T18:46:30.586986+00:00"
+    },
+    {
+      "guid": "nc-links-2026-09-03",
+      "title": "Links 9/3/2026",
+      "description": "Daily Links from Naked Capitalism. 12 articles: UNEP: World set to cross 1.5\u00b0C global warming, but can still limit, adapt to and return from higher temperatures; Hurricane Lowell now Category 4: What this means for Hawaii; NY\u2019s climate superfund law has been struck down. Is NJ\u2019s bill now in trouble?; Japan\u2019s hypersonic subs bring it closer to the nuclear edge; US slaps 100% tariffs on drones to counter Chinese dominance\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-09-03.mp3",
+      "file_size": 29811724,
+      "duration": "01:02:06",
+      "pub_date": "2026-09-03T15:49:53.460604+00:00"
     }
   ]
 }
