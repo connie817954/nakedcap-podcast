@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-23",
-      "title": "Links 7/23/2026",
-      "description": "Daily Links from Naked Capitalism. 10 articles: The Largest Operating Steam Locomotive in the World Weighs 1.2 Million Pounds. Now, the Historic Train May Be Coming to Your Town; Measles cases in the U.S. hit a new 34-year high; Why the fastest-growing Ebola outbreak in history is becoming more challenging; JPMorgan, other US banks set to help finance Japan\u2019s $550 billion US investment plan, say sources; The Gulf\u2019s China Problem\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-23.mp3",
-      "file_size": 25658188,
-      "duration": "00:53:27",
-      "pub_date": "2026-07-23T13:57:03.817081+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-24",
       "title": "Links 7/24/2026",
       "description": "Daily Links from Naked Capitalism. 13 articles: Long Presumed Dead, a West African Reef Is Found Thriving; Deadly Snail Venom Could Lead to Pain Relief Without Opioids, Study Shows; FDA investigating second, smaller cyclosporiasis outbreak; Climate crisis-driven heat \u2018sucking soils dry\u2019 as extreme drought hits Europe; Super El Ni\u00f1o Forecast Pushes Toward Record Strength as Winter 2026/2027 Signals Emerge\u2026",
@@ -269,6 +260,15 @@
       "file_size": 25549132,
       "duration": "00:53:13",
       "pub_date": "2026-09-04T15:50:18.435829+00:00"
+    },
+    {
+      "guid": "nc-links-2026-09-07",
+      "title": "Links 9/7/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: How the brain of a fly may help explain human behaviour; Wildfires, heat waves threaten global efforts to improve air quality: WMO; Thousands still without power after tornadoes rip through the Detroit area; September 5, 2026; You Don\u2019t Have a Right to Safe Drinking Water, US Court Rules\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-09-07.mp3",
+      "file_size": 19789708,
+      "duration": "00:41:13",
+      "pub_date": "2026-09-07T17:14:42.640798+00:00"
     }
   ]
 }
