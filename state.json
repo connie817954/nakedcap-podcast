@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-24",
-      "title": "Links 7/24/2026",
-      "description": "Daily Links from Naked Capitalism. 13 articles: Long Presumed Dead, a West African Reef Is Found Thriving; Deadly Snail Venom Could Lead to Pain Relief Without Opioids, Study Shows; FDA investigating second, smaller cyclosporiasis outbreak; Climate crisis-driven heat \u2018sucking soils dry\u2019 as extreme drought hits Europe; Super El Ni\u00f1o Forecast Pushes Toward Record Strength as Winter 2026/2027 Signals Emerge\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-24.mp3",
-      "file_size": 31435468,
-      "duration": "01:05:29",
-      "pub_date": "2026-07-24T13:35:11.392531+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-27",
       "title": "Links 7/27/2026",
       "description": "Daily Links from Naked Capitalism. 16 articles: Insect \u2018submariners\u2019 don\u2019t implode at depth, leaving oceanic mystery unsolved; \u2018I can\u2019t work in the farce of climate change cruise tourism anymore\u2019: why Antarctic guides quit their dream jobs; Power Grids Reach Tipping Point as 100F Weather, US Data Center Boom Stress Aging Networks; July 26, 2026; July 27, 2026\u2026",
@@ -269,6 +260,15 @@
       "file_size": 19789708,
       "duration": "00:41:13",
       "pub_date": "2026-09-07T17:14:42.640798+00:00"
+    },
+    {
+      "guid": "nc-links-2026-09-08",
+      "title": "Links 9/8/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: September 7, 2026; Scientists say love follows hidden mathematical rules; The charts that show the havoc El Nino is set to wreak across the world; \u2018Her body temperature was 106\u2019: How heat is killing Americans in their homes; A Surge of Marine Heat Waves Threatens to Scramble Ocean Life\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-09-08.mp3",
+      "file_size": 32779660,
+      "duration": "01:08:17",
+      "pub_date": "2026-09-08T16:02:30.861212+00:00"
     }
   ]
 }
