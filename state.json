@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-27",
-      "title": "Links 7/27/2026",
-      "description": "Daily Links from Naked Capitalism. 16 articles: Insect \u2018submariners\u2019 don\u2019t implode at depth, leaving oceanic mystery unsolved; \u2018I can\u2019t work in the farce of climate change cruise tourism anymore\u2019: why Antarctic guides quit their dream jobs; Power Grids Reach Tipping Point as 100F Weather, US Data Center Boom Stress Aging Networks; July 26, 2026; July 27, 2026\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-27.mp3",
-      "file_size": 35088268,
-      "duration": "01:13:05",
-      "pub_date": "2026-07-27T14:33:16.813553+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-28",
       "title": "Links 7/28/2026",
       "description": "Daily Links from Naked Capitalism. 11 articles: Mathematicians Reveal Why Humans Keep Becoming Cannibals; The Secret Lives of Insects; July 23, 2026; The Science of Using Drugs and Not Dying; Where You Carry Your Body Fat Is Directly Linked to Brain Aging in First-of-Its-Kind Study\u2026",
@@ -269,6 +260,15 @@
       "file_size": 32779660,
       "duration": "01:08:17",
       "pub_date": "2026-09-08T16:02:30.861212+00:00"
+    },
+    {
+      "guid": "nc-links-2026-09-10",
+      "title": "Links 9/10/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: Sales of CD and vinyl music sees strong resurgence amid physical media backlash \u2014 US sales of \u2018retro media\u2019 were up 59% and 18%, respectively, in H1 2026; August hottest month ever recorded globally: EU monitor; \u2018Her body temperature was 106\u2019: How heat is killing Americans in their homes; SoCal weather whiplash brings flooding, coastal erosion and extreme heat; China dismisses US AI distillation claims, vows countermeasures\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-09-10.mp3",
+      "file_size": 30923404,
+      "duration": "01:04:25",
+      "pub_date": "2026-09-10T15:54:47.539398+00:00"
     }
   ]
 }
