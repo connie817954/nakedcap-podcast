@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-29",
-      "title": "Links 7/29/2026",
-      "description": "Daily Links from Naked Capitalism. 14 articles: The rise of \u2018safety fatigue\u2019 among parents; Did medieval people love their children?; Origin of Human Eyes Traced to 560-Million-Year-Old One-Eyed \u2018Cyclops\u2019; Europe is burning: How bad could this wildfire crisis get?; Inside The Lab Growing Mutant Bacteria To Terraform Earth\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-29.mp3",
-      "file_size": 33744844,
-      "duration": "01:10:18",
-      "pub_date": "2026-07-29T14:10:41.344674+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-30",
       "title": "Links 7/30/2026",
       "description": "Daily Links from Naked Capitalism. 12 articles: Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris; The EU might weaken its landmark climate law \u2014 the \u2018most impactful\u2019 in the world; It\u2019s official: Data centers are slowing America\u2019s shift away from coal; NOAA ditches weather-predicting supercomputers for Google Cloud; Hot nights are costing you up to 56 hours of sleep per year, study finds\u2026",
@@ -269,6 +260,15 @@
       "file_size": 32613196,
       "duration": "01:07:56",
       "pub_date": "2026-09-14T17:42:02.885665+00:00"
+    },
+    {
+      "guid": "nc-links-2026-09-15",
+      "title": "Links 9/15/2026",
+      "description": "Daily Links from Naked Capitalism. 16 articles: Moose on the loose at Warsaw\u2019s main station brings trains to a standstill; Chemistry textbooks have been getting this wrong for nearly 100 years; Future catastrophic weather could be \u2018far worse\u2019 than history suggests; How cleaning up the air is speeding up global warming \u2013 and revealing a bigger problem; Half the world is seeing extreme heat extend beyond summer\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-09-15.mp3",
+      "file_size": 40505740,
+      "duration": "01:24:23",
+      "pub_date": "2026-09-15T16:28:30.426546+00:00"
     }
   ]
 }
