@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-30",
-      "title": "Links 7/30/2026",
-      "description": "Daily Links from Naked Capitalism. 12 articles: Southern Europe burns as 3 firefighters die and France battles blaze 4 times the size of Paris; The EU might weaken its landmark climate law \u2014 the \u2018most impactful\u2019 in the world; It\u2019s official: Data centers are slowing America\u2019s shift away from coal; NOAA ditches weather-predicting supercomputers for Google Cloud; Hot nights are costing you up to 56 hours of sleep per year, study finds\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-30.mp3",
-      "file_size": 28204492,
-      "duration": "00:58:45",
-      "pub_date": "2026-07-30T13:58:33.640812+00:00"
-    },
-    {
       "guid": "nc-links-2026-07-31",
       "title": "Links 7/31/2026",
       "description": "Daily Links from Naked Capitalism. 8 articles: This 4,000-year-old city defied the rules of history; Sharp Drop! Is China\u2019s Lithography Machine Scaring Wall Street?; The U.S. Just Took A Big Step to Break China\u2019s Magnet Dominance; Japan carries out yen-buying intervention as US executes rate check; Climate-related crop losses top R1bn as extreme weather pressures South Africa\u2019s farmers\u2026",
@@ -269,6 +260,15 @@
       "file_size": 40505740,
       "duration": "01:24:23",
       "pub_date": "2026-09-15T16:28:30.426546+00:00"
+    },
+    {
+      "guid": "nc-links-2026-09-16",
+      "title": "Links 9/16/2026",
+      "description": "Daily Links from Naked Capitalism. 13 articles: Tiny Pieces of Alien Technology Might Be Buried in Moon Dust and Scientists Think They Know How to Look; September 15, 2026; September 14, 2026; US-China Discuss Cutting Some Tariffs as Leaders Prepare to Meet; New photos show widespread damage at U.S. positions caused by Iranian missile, drone attacks\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-09-16.mp3",
+      "file_size": 21765964,
+      "duration": "00:45:20",
+      "pub_date": "2026-09-16T16:14:54.855610+00:00"
     }
   ]
 }
