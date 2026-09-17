@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "guid": "nc-links-2026-07-31",
-      "title": "Links 7/31/2026",
-      "description": "Daily Links from Naked Capitalism. 8 articles: This 4,000-year-old city defied the rules of history; Sharp Drop! Is China\u2019s Lithography Machine Scaring Wall Street?; The U.S. Just Took A Big Step to Break China\u2019s Magnet Dominance; Japan carries out yen-buying intervention as US executes rate check; Climate-related crop losses top R1bn as extreme weather pressures South Africa\u2019s farmers\u2026",
-      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-07-31.mp3",
-      "file_size": 21296140,
-      "duration": "00:44:21",
-      "pub_date": "2026-07-31T14:03:18.453501+00:00"
-    },
-    {
       "guid": "nc-links-2026-08-03",
       "title": "Links 8/3/2026",
       "description": "Daily Links from Naked Capitalism. 10 articles: Protecting earth from extraterrestrial contamination: The case for a lunar biocontainment facility; A town haunted by the smell of rotting fish for 20 years is getting some relief; The Summer When Peace Died; Spokane fires destroy hundreds of structures; 2 killed when firefighting helicopters collide near Athens as Europe\u2019s wildfire emergency rages\u2026",
@@ -269,6 +260,15 @@
       "file_size": 21765964,
       "duration": "00:45:20",
       "pub_date": "2026-09-16T16:14:54.855610+00:00"
+    },
+    {
+      "guid": "nc-links-2026-09-17",
+      "title": "Links 9/17/2026",
+      "description": "Daily Links from Naked Capitalism. 11 articles: Network science reveals the structure and lasting impact of the Roman road system; Where I\u2019ve Been; El Ni\u00f1o Is Not Just a Monsoon Problem. It Is a Whole-Economy Risk; September 16, 2026; China\u2019s top diplomat holds talks with Iranian FM\u2026",
+      "audio_url": "https://connie817954.github.io/nakedcap-podcast/audio/nc-links-2026-09-17.mp3",
+      "file_size": 21516940,
+      "duration": "00:44:49",
+      "pub_date": "2026-09-17T16:16:07.237906+00:00"
     }
   ]
 }
